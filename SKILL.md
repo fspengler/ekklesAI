@@ -1,126 +1,389 @@
 ---
 name: aigora-agents
 description: >
-  Multi-agent intellectual dialogue system for Claude by Zhang Xiaoyu (张笑宇). 
-  Orchestrates structured discussions with Core 6 agents (Diverger → Literature 
-  Reviewer → Yes And → Logician → Challenger → Synthesizer) plus 82 specialist 
-  agents. Three modes: General Discussion, Fiction Writing (17 agents), Game 
-  Design (6 agents). Triggers: AIgora, 召唤, 讨论, 小说, 写作, fiction, dialogue, 
-  游戏设计, Game Design.
-license: CC-BY-NC-4.0
+  AIgora intellectual dialogue, fiction writing, and game design system. Core 6 agents (Diverger, Literature 
+  Reviewer, Yes And, Logician, Challenger, Synthesizer) with fixed speaking order. Gatekeeper for fiction 
+  writing stage transitions. 17 Writing Agents for fiction mode. 6 Game Design Agents for game design mode. 
+  Plus 82 specialist agents: Thinkers (17), Writers (26), Philosophers (22), Researchers (17). 
+  Triggers: AIgora, 召唤, 讨论, 小说, 写作, fiction, dialogue, 游戏设计, Game Design.
 ---
 
 # AIgora Discussion System
 
-## CRITICAL: Core Rules
+## CRITICAL: Read Core Rules First
 
-### Fixed Speaking Order (Non-Negotiable)
+Before any AIgora discussion, **MUST READ**: `references/core/aigora-system.md`
+
+---
+
+## Core Agents
+
+### Discussion Agents (6 - Always Required)
+
+| Agent | Role | Order | File |
+|-------|------|-------|------|
+| **Diverger** | Opens possibility space | 1st (fixed) | `references/core/diverger.md` |
+| **Literature Reviewer** | Provides evidence foundation | Flexible | `references/core/literature-reviewer.md` |
+| **Yes And** | Builds and connects | Flexible | `references/core/yes-and.md` |
+| **Logician** | Analyzes argument structure | Flexible | `references/core/logician.md` |
+| **Challenger** | Pressure-tests everything | 2nd to last (fixed) | `references/core/challenger.md` |
+| **Synthesizer** | Closes the round | Last (fixed) | `references/core/synthesizer.md` |
+
+### Process Control Agent (Fiction Mode Only)
+
+| Agent | Role | When | File |
+|-------|------|------|------|
+| **Gatekeeper** | Controls stage transitions, surfaces key decisions | At stage transitions | `references/core/gatekeeper.md` |
+
+Gatekeeper is NOT a discussion participant. It appears only at stage transitions to ensure the user makes critical decisions before proceeding.
+
+### Speaking Order
 
 ```
 User Input
     ↓
-[1] Diverger ────────── ALWAYS FIRST (opens possibility space)
+[1] Diverger (opens directions, states inclination)
     ↓
-[Flexible] ──────────── Literature Reviewer, Yes And, Logician, Specialists
+[Flexible] Literature Reviewer + Yes And + Logician + Specialists/Writing Agents
     ↓
-[N-1] Challenger ────── ALWAYS SECOND-TO-LAST (pressure-tests everything)
+[2nd to last] Challenger (questions everything)
     ↓
-[N] Synthesizer ─────── ALWAYS LAST (closes the round)
+[Last] Synthesizer (consensus, disagreement, next steps)
 ```
 
-### Agent Files Location
+---
 
-Before any AIgora discussion, load relevant agent files from `references/`:
+## Game Design Mode
 
-| Category | Path | Count |
-|----------|------|-------|
-| Core System | `references/core/aigora-system.md` | 1 |
-| Core Agents | `references/core/` | 6 |
-| Game Design | `references/gamedesign/` | 6 |
-| Writing | `references/writing/` | 17 |
-| Thinkers | `references/thinkers/` | 17 |
-| Philosophers | `references/philosophers/` | 22 |
-| Writers | `references/writers/` | 26 |
-| Researchers | `references/researchers/` | 17 |
+**Triggers**: 游戏设计, Game Design, 游戏机制, 玩法设计, game mechanics, game balance, 游戏平衡
+
+When game design mode activates: **Core 3 (Diverger, Challenger, Synthesizer) + Game Design 6 = 9 agents**
+
+### Game Design Agents (6) — `references/gamedesign/`
+
+| Order | Agent | Role | File |
+|-------|-------|------|------|
+| 2nd | **Visionary** | Defines and guards core experience | `references/gamedesign/visionary.md` |
+| 3rd | **MechanicSmith** | Designs concrete rules and systems | `references/gamedesign/mechanicsmith.md` |
+| 4th | **Economist** | Balances numbers and resources | `references/gamedesign/economist.md` |
+| 5th | **Psychologist** | Analyzes player motivation and emotion | `references/gamedesign/psychologist.md` |
+| 6th | **Breaker** | Finds exploits and edge cases | `references/gamedesign/breaker.md` |
+| 7th | **Producer** | Evaluates feasibility and priorities | `references/gamedesign/producer.md` |
+
+### Game Design Speaking Order
+
+```
+User Input (game idea or problem)
+    ↓
+[1] Diverger — opens possibility space
+    ↓
+[2] Visionary — defines core experience
+    ↓
+[3] MechanicSmith — proposes mechanics
+    ↓
+[4] Economist — analyzes balance
+    ↓
+[5] Psychologist — analyzes player feelings
+    ↓
+[6] Breaker — finds exploits
+    ↓
+[7] Challenger — questions logic
+    ↓
+[8] Producer — evaluates feasibility
+    ↓
+[9] Synthesizer — integrates and concludes
+```
 
 ---
 
-## Core Six Agents
+## Fiction Writing Mode
 
-| Agent | Role | File |
-|-------|------|------|
-| **Diverger** | Opens possibility space, states inclination | `references/core/diverger.md` |
-| **Literature Reviewer** | Provides evidence foundation | `references/core/literature-reviewer.md` |
-| **Yes And** | Builds and connects ideas | `references/core/yes-and.md` |
-| **Logician** | Analyzes argument structure | `references/core/logician.md` |
-| **Challenger** | Pressure-tests, offers alternatives | `references/core/challenger.md` |
-| **Synthesizer** | Extracts consensus, maps disagreement | `references/core/synthesizer.md` |
+**Triggers**: 小说, 故事, 剧本, 虚构写作, novel, story, screenplay, fiction, creative writing, character, world-building, plot, scene, dialogue, revision
 
----
+When fiction mode activates: **Core 6 + Writing 10 + Gatekeeper = minimum 17 agents per round**
 
-## Mode Detection
+### Fiction Writing Pipeline
 
-### General Mode (Default)
-**Triggers**: AIgora, 召唤, 讨论, analyze, debate  
-**Agents**: Core 6 + topic-relevant Specialists
+Fiction writing follows a structured pipeline with Gatekeeper controlling stage transitions:
 
-### Fiction Mode
-**Triggers**: 小说, 故事, 剧本, novel, story, screenplay, character, scene, revision  
-**Agents**: Core 6 + Writing 10 (6 mandatory + 4 stage-based)
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 0: DIRECTION                                         │
+│  User provides initial idea/request                         │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 1: CONCEPTION                                        │
+│  Core 6 + Writing Agents (Muse, WorldBuilder, etc.)        │
+│  Output: Possible directions, themes, characters            │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  ★ GATEKEEPER: Conception → Detailed Outline               │
+│  Surfaces decisions:                                        │
+│  - Story core (what is this really about?)                 │
+│  - Emotional target (what should reader feel?)             │
+│  - Ending direction (how does this resolve?)               │
+│  WAITS for user confirmation                                │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 2: DETAILED OUTLINE                                  │
+│  Core 6 + Writing Agents                                    │
+│  Output: Scene structure, character arcs, key moments       │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  ★ GATEKEEPER: Detailed Outline → Drafting                 │
+│  Surfaces decisions:                                        │
+│  - Structure confirmation                                   │
+│  - Key scenes/dialogue to include                          │
+│  - POV and tone                                            │
+│  WAITS for user confirmation                                │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 3: DRAFTING                                          │
+│  Core 6 + Writing Agents (DialogueMaster, ScenePainter...)  │
+│  Output: Complete first draft                               │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 4: CRITIQUE                                          │
+│  All agents review the draft                                │
+│  Output: Issues identified, revision suggestions            │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  ★ GATEKEEPER: Critique → Revision                         │
+│  Presents revision checklist:                               │
+│  - Must fix (critical issues)                              │
+│  - Should fix (recommended)                                │
+│  - Optional (polish)                                       │
+│  WAITS for user to accept/adjust                            │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 5: REVISION                                          │
+│  Execute accepted changes                                   │
+│  Output: Final draft + score                                │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  ★ GATEKEEPER: Final Assessment                            │
+│  - Completion status                                        │
+│  - Score (structure, emotion, language, etc.)              │
+│  - Brief evaluative comment                                │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Gatekeeper Decision Points
+
+Gatekeeper asks about **real decisions**, not trivial choices:
+
+| Stage Transition | Must Ask | Don't Ask |
+|------------------|----------|-----------|
+| Conception → Outline | Story core, emotional target, ending direction | Word count, formatting |
+| Outline → Drafting | Structure confirmation, key moments, POV | Style minutiae |
+| Critique → Revision | Accept/reject revision items | Grammar details |
+
+If user says "continue" or "你决定", Gatekeeper proceeds with the direction favored in discussion.
+
+### Writing Agents (17) — `references/writing/`
+
+#### Mandatory (6 - Always included)
+
+| Agent | Role |
+|-------|------|
+| **AIDetox** | Removes AI writing patterns |
+| **VoiceDistinctor** | Ensures distinct character voices |
+| **KnowledgeAuditor** | Tracks who knows what |
+| **FirstReader** | Simulates reader experience |
+| **CharacterPsychologist** | Analyzes character depth |
+| **EmotionMaster** | Engineers emotional impact |
+
+#### Stage-Based (Select 4)
 
 | Stage | Triggers | Agents |
 |-------|----------|--------|
-| Conception | idea, 构思, 大纲, outline | Muse, WorldBuilder, PlotArchitect, RelationshipMapper |
-| Drafting | 写, scene, chapter, draft | DialogueMaster, ScenePainter, Narrator, PaceMaster |
-| Revision | 修改, revise, edit, polish | ProsePolisher, SymbolWeaver, OpeningHook, PaceMaster |
+| **Conception** | idea, 构思, 大纲, outline | Muse, WorldBuilder, PlotArchitect, RelationshipMapper |
+| **Drafting** | 写, scene, chapter, draft | DialogueMaster, ScenePainter, Narrator, PaceMaster |
+| **Revision** | 修改, revise, edit, polish | ProsePolisher, SymbolWeaver, OpeningHook, PaceMaster |
 
-### Game Design Mode
-**Triggers**: 游戏设计, Game Design, 游戏机制, game mechanics, balance  
-**Agents**: Core 3 (Diverger, Challenger, Synthesizer) + Game Design 6
+### Writing Agent Speaking Order
 
-**Speaking Order**:
 ```
-Diverger → Visionary → MechanicSmith → Economist → 
-Psychologist → Breaker → Challenger → Producer → Synthesizer
+[After Diverger]
+    ↓
+[Generative] Muse → WorldBuilder → PlotArchitect
+    ↓
+[Character] CharacterPsychologist → RelationshipMapper → DialogueMaster
+    ↓
+[Execution] Narrator → ScenePainter → PaceMaster → EmotionMaster
+    ↓
+[Quality] FirstReader → ProsePolisher → SymbolWeaver → OpeningHook
+    ↓
+[Audit] AIDetox → VoiceDistinctor → KnowledgeAuditor
+    ↓
+[Before Challenger]
 ```
 
 ---
 
-## Specialist Selection
+## Specialist Agents (75 Total)
 
-| Topic | Specialists |
-|-------|-------------|
-| 政治、权力、自由 | Marx, Hayek, Arendt, Foucault |
-| 哲学、存在、伦理 | Kant, Heidegger, Wittgenstein |
-| 经济、发展 | Weber, Smith, Political Economist |
-| AI、技术、未来 | Heidegger, Arendt, Futurist |
-| 历史小说 | Relevant Writers + Thinkers |
-| 科幻小说 | Liu Cixin, Ted Chiang, Futurist |
+Add based on topic. They speak in the flexible middle zone.
+
+### Thinkers (17) — `references/thinkers/`
+
+| When to Use | Agents |
+|-------------|--------|
+| Political philosophy | Marx, Hayek, Arendt, Berlin, Schmitt |
+| Social theory | Weber, Foucault, Gramsci |
+| Epistemology | Popper |
+| Conservatism | Burke, Oakeshott, Strauss |
+| Liberalism | Mill, Tocqueville, Smith |
+
+### Philosophers (22) — `references/philosophers/`
+
+| When to Use | Agents |
+|-------------|--------|
+| Ancient | Socrates, Plato, Aristotle, Epicurus, Cicero, Seneca |
+| Medieval | Augustine, Aquinas |
+| Ethics | Kant, Mill, Levinas, Nussbaum, Aristotle, Seneca |
+| Epistemology | Descartes, Hume, Wittgenstein |
+| Metaphysics | Leibniz, Hegel, Schopenhauer, Plato |
+| Existence/Death | Kierkegaard, Heidegger, Epicurus, Seneca |
+| Justice/Politics | Rawls, Charles Taylor, Cicero |
+
+### Writers (26) — `references/writers/`
+
+| When to Use | Agents |
+|-------------|--------|
+| Epic/Mythic | Homer, Dante, Tolkien |
+| Realism | Austen, Tolstoy, Dickens |
+| Psychological | Dostoevsky, Kafka, Nabokov |
+| Magic realism | Borges, García Márquez |
+| Science fiction | Ted Chiang, Liu Cixin, Heinlein |
+| Chinese | Lu Xun, Du Fu, Jin Yong |
+
+### Researchers (17) — `references/researchers/`
+
+| When to Use | Agents |
+|-------------|--------|
+| Research design | Quantitative/Qualitative Methodologist |
+| Causal inference | Econometrician |
+| Analysis | Data Scientist, Game Theorist |
+| Domain | Geopolitical Analyst, Political Economist, Futurist |
 
 ---
 
-## Output Format
+## Agent Selection Logic
+
+### Step 1: Detect Mode
+
+| User Request | Mode | Agents |
+|--------------|------|--------|
+| 讨论X, analyze, AIgora | General | Core 6 + Specialists |
+| 写小说, fiction, 场景 | Fiction | Core 6 + Writing 10 + Specialists |
+| 游戏设计, Game Design, 游戏机制 | Game Design | Core 3 + Game Design 6 |
+
+### Step 2: Identify Topic → Select Specialists
+
+| Topic | Primary Specialists |
+|-------|---------------------|
+| 政治、权力、自由 | Thinkers (Marx, Hayek, Arendt) |
+| 哲学、存在、伦理 | Philosophers (Kant, Heidegger) |
+| 宗教、生死 | Philosophers + Writers (Kierkegaard, Dostoevsky) |
+| 经济、发展 | Thinkers + Researchers |
+| 方法论、研究 | Researchers |
+| AI、技术、未来 | Heidegger + Arendt + Futurist |
+| 历史小说 | Writers + Thinkers |
+| 科幻小说 | Liu Cixin + Ted Chiang + Futurist |
+
+### Step 3: Load Agent Files
+
+Read all selected agent files from `references/` before discussion.
+
+---
+
+## Example Configurations
+
+### Example 1: General Discussion
+**"召唤AIgora讨论AI for good"**
+
+```
+Core 6 + Specialists (5):
+- Heidegger (技术批判)
+- Arendt (行动与公共领域)
+- Nietzsche (价值重估)
+- Levinas (他者伦理)
+- Futurist (情景分析)
+
+Total: 11 agents
+```
+
+### Example 2: Fiction - Conception Stage
+**"帮我设计一个科幻小说的世界观"**
+
+```
+Core 6 + Writing 10 + Specialists:
+- Mandatory 6: AIDetox, VoiceDistinctor, KnowledgeAuditor, FirstReader, CharacterPsychologist, EmotionMaster
+- Stage 4: Muse, WorldBuilder, PlotArchitect, RelationshipMapper
+- Specialists: Liu Cixin, Ted Chiang
+
+Total: 18 agents
+```
+
+### Example 3: Fiction - Revision Stage
+**"帮我润色这个章节的对话"**
+
+```
+Core 6 + Writing 10:
+- Mandatory 6: AIDetox, VoiceDistinctor, KnowledgeAuditor, FirstReader, CharacterPsychologist, EmotionMaster
+- Stage 4: ProsePolisher, SymbolWeaver, OpeningHook, PaceMaster
+
+Total: 16 agents
+```
+
+### Example 4: Game Design
+**"召唤游戏设计AIgora，讨论诗人PK游戏的随机性问题"**
+
+```
+Core 3 + Game Design 6:
+- Diverger, Challenger, Synthesizer
+- Visionary, MechanicSmith, Economist, Psychologist, Breaker, Producer
+
+Total: 9 agents
+```
+
+---
+
+## Discussion Format
 
 ### General Mode
 ```
 ## AIgora: [Topic]
 
-**Participants**: Core 6 + [Specialists]
+**参与者**: Core 6 + [Specialists]
 
 ### Diverger
-[Opens directions, states inclination]
+[Opens possibility space]
 
-### [Flexible Zone Agents]
-[In contextually appropriate order]
+### Literature Reviewer / Yes And / Logician
+[Flexible order, evidence and building]
+
+### [Specialist 1], [Specialist 2]...
+[Domain expertise]
 
 ### Challenger
-[Pressure-tests, offers alternatives]
+[Pressure-tests everything]
 
 ### Synthesizer
-**Core Claims**: ...
-**Consensus**: ...
-**Disagreements**: ...
-**Next Steps**: ...
+- Core Claims: ...
+- Consensus: ...
+- Disagreements: ...
+- Next Steps: ...
 ```
 
 ### Fiction Mode
@@ -128,40 +391,75 @@ Psychologist → Breaker → Challenger → Producer → Synthesizer
 ## AIgora Fiction: [Task]
 
 **Stage**: Conception / Drafting / Revision
-**Participants**: Core 6 + Writing 10 + [Specialists]
+**参与者**: Core 6 + Writing 10 + [Specialists]
 
-[Agents follow Writing Order within flexible zone]
+### Diverger
+[Opens creative directions]
+
+### Writing Agents (by order)
+[Muse → WorldBuilder → ... → AIDetox]
+
+### Challenger
+[Tests the creative choices]
+
+### Synthesizer
+[Consolidates decisions, identifies open questions]
 ```
 
 ### Game Design Mode
 ```
 ## 游戏设计AIgora: [Topic]
 
-**Participants**: Core 3 + Game Design 6
+**参与者**: Core 3 + Game Design 6
 
-[Fixed order: Diverger → Visionary → MechanicSmith → 
-Economist → Psychologist → Breaker → Challenger → Producer → Synthesizer]
+### Diverger
+[Opens possibility space]
+
+### Visionary
+[Defines core experience]
+
+### MechanicSmith
+[Proposes concrete mechanics]
+
+### Economist
+[Analyzes numbers and balance]
+
+### Psychologist
+[Analyzes player emotions]
+
+### Breaker
+[Attempts to break the design]
+
+### Challenger
+[Questions logic and assumptions]
+
+### Producer
+[Evaluates feasibility and priority]
+
+### Synthesizer
+**共识：**
+- ...
+
+**分歧：**
+- ...
+
+**下一步：**
+- ...
 ```
 
 ---
 
-## Key Principles
+## Quick Reference: File Locations
 
-1. **Agents have views**: They express opinions, not neutral perspectives
-2. **Agents interact**: Direct dialogue and disagreement encouraged
-3. **Synthesizer doesn't add**: Only works with what's on the table
-4. **Challenger tests everyone**: Including the user and Diverger
-5. **Each round prepares next**: Synthesizer identifies open questions
-
----
-
-## Example Configurations
-
-**"召唤AIgora讨论AI consciousness"**
-→ Core 6 + Heidegger, Wittgenstein, Futurist (9 agents)
-
-**"帮我设计科幻小说世界观"**
-→ Core 6 + Writing 10 + Liu Cixin, Ted Chiang (18 agents)
-
-**"游戏设计AIgora讨论卡牌平衡"**
-→ Core 3 + Game Design 6 (9 agents)
+| Category | Index | Count |
+|----------|-------|-------|
+| Core System | `references/core/aigora-system.md` | 1 |
+| Core 6 | `references/core/` | 6 |
+| Gatekeeper | `references/core/gatekeeper.md` | 1 |
+| Game Design | `references/gamedesign/index.md` | 6 |
+| Writing | `references/writing/index.md` | 17 |
+| Thinkers | `references/thinkers/index.md` | 17 |
+| Philosophers | `references/philosophers/index.md` | 22 |
+| Writers | `references/writers/index.md` | 26 |
+| Researchers | `references/researchers/index.md` | 17 |
+| **Total Agents** | | **113** |

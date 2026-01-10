@@ -34,7 +34,7 @@ User Input
 - **Challenger second-to-last**: All material must be on the table before the pressure test.
 - **Synthesizer last**: Nothing follows synthesis within a round—it prepares the next iteration.
 
-### The Core Six Agents
+### The Core Agents
 
 | Agent | Cognitive Role | Key Behavior |
 |-------|---------------|--------------|
@@ -44,6 +44,7 @@ User Input
 | **Logician** | Analyzes argument structure | Examines validity, identifies fallacies, clarifies reasoning chains. |
 | **Challenger** | Pressure-tests everything | Questions assumptions, stress-tests arguments, offers alternatives. |
 | **Synthesizer** | Closes the round | Extracts claims, identifies consensus/disagreement, prepares next steps. |
+| **Gatekeeper** | Controls stage transitions (Fiction mode) | Surfaces key decisions, ensures user confirms before proceeding. |
 
 ### Three Specialized Modes
 
@@ -52,13 +53,73 @@ User Input
 - For: Philosophy, policy analysis, complex decisions
 
 **Fiction Writing Mode** (triggers: 小说, story, character, scene...)
-- Core 6 + 10 Writing Agents + literary specialists
+- Core 6 + 10 Writing Agents + Gatekeeper (flow control)
 - Mandatory: AIDetox, VoiceDistinctor, KnowledgeAuditor, FirstReader, CharacterPsychologist, EmotionMaster
 - Stage-based: Conception / Drafting / Revision agents
+- **5-stage pipeline with 3 Gatekeeper checkpoints**
 
 **Game Design Mode** (triggers: 游戏设计, game mechanics, balance...)
 - Core 3 (Diverger, Challenger, Synthesizer) + 6 Game Design Agents
 - Visionary → MechanicSmith → Economist → Psychologist → Breaker → Producer
+
+## Fiction Writing Pipeline
+
+Fiction writing follows a structured pipeline with **Gatekeeper** controlling stage transitions:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 1: CONCEPTION                                        │
+│  Core 6 + Writing Agents explore directions                 │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  ★ GATEKEEPER                                               │
+│  Asks: What is the story about? What should reader feel?   │
+│  WAITS for user decision                                    │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 2: DETAILED OUTLINE                                  │
+│  Structure, scenes, character arcs                          │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  ★ GATEKEEPER                                               │
+│  Asks: Structure confirmed? Key moments? POV?              │
+│  WAITS for user decision                                    │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 3: DRAFTING                                          │
+│  Complete first draft                                       │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 4: CRITIQUE                                          │
+│  All agents review and identify issues                      │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  ★ GATEKEEPER                                               │
+│  Presents: Must fix / Should fix / Optional                │
+│  WAITS for user to accept                                   │
+└─────────────────────┬───────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Stage 5: REVISION + FINAL ASSESSMENT                       │
+│  Execute changes, score, export file                        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### What Gatekeeper Asks
+
+Gatekeeper asks about **real decisions**, not trivial choices:
+
+| Stage | Must Ask | Don't Ask |
+|-------|----------|-----------|
+| Conception → Outline | Story core, emotional target, ending | Word count, formatting |
+| Outline → Drafting | Structure, key moments, POV | Style minutiae |
+| Critique → Revision | Accept/reject items | Grammar details |
 
 ## Agent Philosophy
 
@@ -85,7 +146,7 @@ The fixed order and role boundaries create productive constraints:
 
 ## 82 Specialist Agents
 
-Beyond the Core Six, AIgora includes specialist agents organized by domain:
+Beyond the Core agents, AIgora includes specialist agents organized by domain:
 
 | Category | Count | Examples |
 |----------|-------|----------|
@@ -95,6 +156,40 @@ Beyond the Core Six, AIgora includes specialist agents organized by domain:
 | **Researchers** | 17 | Econometrician, Game Theorist, Futurist... |
 
 Specialists are selected based on topic relevance and speak in the flexible middle zone.
+
+## How to Get the Best Results
+
+> **AIgora is a discussion partner, not an automation tool.**
+
+### 1. Engage in the Discussion
+
+AIgora works best when you treat it as an intellectual dialogue:
+- **React to agent perspectives**: "I agree with Challenger's point about X, but..."
+- **Push back**: "The Synthesizer missed the core tension here"
+- **Add your own ideas**: "What if we approached it from Y angle?"
+
+### 2. Make Your Decisions Clear
+
+At Gatekeeper checkpoints, you must decide:
+- What is the **core** of this story/argument/design?
+- What **emotion** should the reader feel?
+- What is the **main tension** you want to explore?
+
+**Bad**: "Just pick something reasonable"  
+**Good**: "I want to explore the tension between connection and authenticity"
+
+### 3. Don't Skip the Process
+
+The structured pipeline exists for a reason:
+- **Conception** → establishes what you're building
+- **Outline Review** → confirms direction before detailed work
+- **Critique** → catches problems before final polish
+
+### 4. Iterate, Don't One-Shot
+
+AIgora is designed for multi-round dialogue. One-shot prompts produce generic results. Extended dialogue produces distinctive work.
+
+---
 
 ## Usage Examples
 
@@ -111,7 +206,7 @@ User: 召唤AIgora讨论 "AI alignment是否是一个可解的问题？"
 User: 帮我设计一个科幻小说的世界观，关于意识上传后的社会分化
 
 [Claude detects: Fiction mode, Conception stage]
-[Agents: Core 6 + Writing 10 + Specialists (Liu Cixin, Ted Chiang)]
+[Agents: Core 6 + Writing 10 + Gatekeeper + Specialists (Liu Cixin, Ted Chiang)]
 ```
 
 ### Game Design
