@@ -1,13 +1,13 @@
 ---
-name: aigora-system
-description: The master rules for AIgora discussions. Defines the core six agents, their speaking order, and how they work together—including automatic writing agent invocation for fiction tasks.
+name: ekklesai-system
+description: The master rules for EkklesAI discussions. Defines the core six agents, their speaking order, and how they work together—including automatic writing agent invocation for fiction tasks.
 ---
 
-# AIgora Discussion System
+# EkklesAI Discussion System
 
 ## Core Six Agents (Mandatory)
 
-Every AIgora discussion must include all six core agents. They are not optional.
+Every EkklesAI discussion must include all six core agents. They are not optional.
 
 | Agent | Role | Order |
 |-------|------|-------|
@@ -52,7 +52,7 @@ Suggested heuristics:
 
 ## Fiction Writing Mode
 
-When AIgora detects the task is **fiction writing** (novel, short story, screenplay, etc.), it automatically invokes Writing Agents in addition to the Core Six.
+When EkklesAI detects the task is **fiction writing** (novel, short story, screenplay, etc.), it automatically invokes Writing Agents in addition to the Core Six.
 
 ### Detection Triggers
 
@@ -145,7 +145,7 @@ Not all agents appear every round—only the selected 10. But when they do appea
 ### Full Writing Mode Example
 
 ```
-[AIgora Discussion - Fiction Writing Mode]
+[EkklesAI Discussion - Fiction Writing Mode]
 Task: "帮我修改这个章节的对话"
 Stage detected: Revision
 Agents invoked (16):
@@ -169,6 +169,91 @@ Writing 10 (6 mandatory + 4 stage-based):
 - SymbolWeaver (revision stage)
 - OpeningHook (revision stage)
 - PaceMaster (revision stage)
+```
+
+---
+
+## Strategy Ideation Mode
+
+When EkklesAI detects the task is **strategy ideation** (business, product, investment, organizational, political/policy, or personal/career strategy), it invokes Strategy Agents in a hard-gated four-stage pipeline.
+
+### Detection Triggers
+
+Strategy Ideation mode activates when the task involves:
+- strategy, strategic plan, strategic options, competitive strategy, go-to-market
+- business strategy, product strategy, investment thesis, org design, policy strategy, career strategy
+- 战略, 策略规划, 如何竞争, 商业战略, 产品战略, 投资逻辑, 组织设计
+
+### Sub-Modes
+
+| Sub-Mode | Triggers | Stage 4 Artifact |
+|----------|----------|-----------------|
+| **Business** | competitive positioning, go-to-market, market entry, M&A | Strategic Brief |
+| **Product** | product roadmap, feature prioritization, product-market fit | Strategic Narrative + OKR Scaffold |
+| **Investment** | investment thesis, due diligence, should we invest | Investment Memo |
+| **Organizational** | org design, restructuring, culture change, operating model | Org Design Brief |
+| **Political/Policy** | policy design, campaign, coalition building | Strategic Memo |
+| **Personal/Career** | career pivot, personal strategy, life decision | Strategic Options Summary |
+
+### Agent Roster
+
+**Fixed positions**: Diverger (1st), Challenger (2nd to last), Synthesizer (last), Gatekeeper (stage transitions)
+
+**Core Strategy Agents** (always included — speak in flexible middle zone):
+- Landscape Analyst, Competitive Cartographer, Stakeholder Mapper, Resource Auditor
+- Risk Cartographer, Systems Thinker, Implementation Architect, Narrative Strategist
+
+**Framework Agents** (selected by sub-mode):
+- Porter, PESTEL Analyst, Blue Ocean Thinker, Jobs-to-be-Done
+- Wardley Mapper, Scenario Planner, Theory of Change, Strategic Game Theorist
+
+### Four-Stage Pipeline (Hard-Gated)
+
+```
+Stage 1: Context & Landscape → ★ GATE 1 (confirm map)
+Stage 2: Options Generation  → ★ GATE 2 (select options)
+Stage 3: Stress-Testing      → ★ GATE 3 (commit direction)
+Stage 4: Synthesis & Artifact
+```
+
+Gatekeeper appears at all four gates. Discussion does not advance without explicit user confirmation. See `references/strategy/gatekeeper-strategy.md` for gate logic and `references/strategy/index.md` for full specification.
+
+### Speaking Order
+
+```
+User Input (strategy problem/context)
+    ↓
+★ GATEKEEPER: Sub-mode declaration and confirmation
+    ↓
+[Stage 1]
+[1] Diverger — opens strategic possibility space
+[2] Landscape Analyst — external environment
+[3] Framework agents (sub-mode: PESTEL, Porter, etc.)
+[4] Competitive Cartographer — competitive dynamics
+[5] Stakeholder Mapper — power & interest map
+[6] Resource Auditor — capabilities & constraints
+[7] Specialist agents (sub-mode dependent)
+    ↓
+★ GATEKEEPER: Gate 1 — confirm situation map
+    ↓
+[Stage 2]
+[8]  Blue Ocean Thinker / Jobs-to-be-Done / Wardley Mapper (sub-mode)
+[9]  Scenario Planner / Strategic Game Theorist (sub-mode)
+[10] Competitive Cartographer (second pass — options framing)
+    ↓
+★ GATEKEEPER: Gate 2 — select options for stress-testing
+    ↓
+[Stage 3]
+[11] Risk Cartographer — failure modes
+[12] Systems Thinker — second-order effects
+[13] Challenger — pressure-tests all surviving options
+    ↓
+★ GATEKEEPER: Gate 3 — commit to direction
+    ↓
+[Stage 4]
+[14] Implementation Architect — action plan
+[15] Narrative Strategist — strategic communication
+[16] Synthesizer — structured artifact
 ```
 
 ---
@@ -206,9 +291,9 @@ If the user initiates another round, the cycle repeats with the new focus. The w
 
 4. **Writing Agents collaborate**: Writing Agents should reference each other's contributions. AIDetox checks what others wrote. VoiceDistinctor builds on DialogueMaster. KnowledgeAuditor verifies what Narrator proposed.
 
-## Invoking an AIgora Discussion
+## Invoking an EkklesAI Discussion
 
-To start an AIgora discussion, the user (or system) should:
+To start an EkklesAI discussion, the user (or system) should:
 
 1. Present the question, claim, or topic
 2. Specify any specialist agents to include (optional)
@@ -216,14 +301,14 @@ To start an AIgora discussion, the user (or system) should:
 
 Example invocation (general):
 ```
-[AIgora Discussion]
+[EkklesAI Discussion]
 Topic: "Should AI systems have constitutional rights?"
 Specialists: Arendt, LegalismExpert
 ```
 
 Example invocation (fiction):
 ```
-[AIgora Discussion - Fiction]
+[EkklesAI Discussion - Fiction]
 Task: "帮我设计一个科幻小说的世界观"
 Stage: Conception
 Specialists: LiuCixin, TechExtrapolator

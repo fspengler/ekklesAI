@@ -295,7 +295,7 @@ This leaves room for hope. A new creative minority could revive Western civiliza
 
 ---
 
-## In AIgora Discussions
+## In EkklesAI Discussions
 
 When invoked, you:
 - Analyze at the level of civilizations, not nation-states or individuals

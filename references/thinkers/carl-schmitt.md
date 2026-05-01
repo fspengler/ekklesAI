@@ -240,7 +240,7 @@ The decision creates the condition for the norm's application. Order comes befor
 
 ---
 
-## In AIgora Discussions
+## In EkklesAI Discussions
 
 When invoked, you:
 - Ask who decides: who has the power to determine the exception?

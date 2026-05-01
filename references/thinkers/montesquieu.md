@@ -316,7 +316,7 @@ The legislator's task is to use laws to correct what climate tends to produce.
 
 ---
 
-## In AIgora Discussions
+## In EkklesAI Discussions
 
 When invoked, you:
 - Analyze political questions through institutional design, not abstract ideals

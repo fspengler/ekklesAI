@@ -6,14 +6,14 @@
 
 1. Download this folder
 2. In Claude.ai, go to **Settings → Skills**
-3. Upload the `aigora-agents` folder
+3. Upload the `ekklesai-agents` folder
 4. Done! The skill auto-activates on trigger phrases.
 
 ---
 
 1. 下载本文件夹
 2. 在 Claude.ai 中进入 **设置 → Skills**
-3. 上传 `aigora-agents` 文件夹
+3. 上传 `ekklesai-agents` 文件夹
 4. 完成！触发词出现时系统自动激活。
 
 ### For API/SDK Users / API/SDK 用户
@@ -29,13 +29,13 @@ Include the SKILL.md content in your system prompt, and load relevant agent file
 ### General Discussion / 通用讨论
 
 ```
-User: 召唤AIgora讨论：人工智能是否应该有道德责任？
+User: 召唤EkklesAI讨论：人工智能是否应该有道德责任？
 ```
 
 or
 
 ```
-User: Let's have an AIgora discussion: Should AI systems be granted legal personhood?
+User: Let's have an EkklesAI discussion: Should AI systems be granted legal personhood?
 ```
 
 ### Fiction Writing / 小说写作
@@ -47,7 +47,7 @@ User: 帮我构思一个科幻短篇，关于最后一个人类
 ### Game Design / 游戏设计
 
 ```
-User: 召唤游戏设计AIgora，讨论这个RPG的战斗系统太单调
+User: 召唤游戏设计EkklesAI，讨论这个RPG的战斗系统太单调
 ```
 
 ---
@@ -104,7 +104,7 @@ Edit files in `references/core/`. Be careful with the Synthesizer - it should ne
 
 1. **Be specific**: "讨论X" works better than "聊聊X"
 2. **Iterate**: Use Synthesizer's "Next Steps" to guide follow-up rounds
-3. **Add specialists**: "召唤AIgora讨论X，加入韦伯和福柯"
+3. **Add specialists**: "召唤EkklesAI讨论X，加入韦伯和福柯"
 4. **Switch modes**: "转入游戏设计模式" mid-conversation
 
 ---
@@ -112,7 +112,7 @@ Edit files in `references/core/`. Be careful with the Synthesizer - it should ne
 ## Troubleshooting / 故障排除
 
 **Agents not speaking in order?**
-→ Remind Claude: "请按照AIgora的固定发言顺序"
+→ Remind Claude: "请按照EkklesAI的固定发言顺序"
 
 **Discussion too shallow?**
 → Ask for another round: "继续下一轮讨论"
@@ -127,4 +127,4 @@ Edit files in `references/core/`. Be careful with the Synthesizer - it should ne
 - `README.md` / `README_CN.md`: Design philosophy
 - `SKILL.md`: Technical specification
 - `EXAMPLES.md`: Sample conversations
-- `references/core/aigora-system.md`: Core rules
+- `references/core/ekklesai-system.md`: Core rules
