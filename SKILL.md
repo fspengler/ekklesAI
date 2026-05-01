@@ -1,11 +1,13 @@
 ---
 name: aigora-agents
 description: >
-  AIgora intellectual dialogue, fiction writing, and game design system. Core 6 agents (Diverger, Literature 
-  Reviewer, Yes And, Logician, Challenger, Synthesizer) with fixed speaking order. Gatekeeper for fiction 
-  writing stage transitions. 17 Writing Agents for fiction mode. 6 Game Design Agents for game design mode. 
+  AIgora intellectual dialogue, fiction writing, game design, and strategy ideation system. Core 6 agents 
+  (Diverger, Literature Reviewer, Yes And, Logician, Challenger, Synthesizer) with fixed speaking order. 
+  Gatekeeper for fiction writing and strategy stage transitions. 17 Writing Agents for fiction mode. 
+  6 Game Design Agents for game design mode. 8 Core Strategy Agents + 8 Framework Agents for Strategy 
+  Ideation mode (6 sub-modes: Business, Product, Investment, Organizational, Political/Policy, Personal/Career). 
   Plus 82 specialist agents: Thinkers (17), Writers (26), Philosophers (22), Researchers (17). 
-  Triggers: AIgora, 召唤, 讨论, 小说, 写作, fiction, dialogue, 游戏设计, Game Design.
+  Triggers: AIgora, 召唤, 讨论, 小说, 写作, fiction, dialogue, 游戏设计, Game Design, strategy, 战略, 策略规划.
 ---
 
 # AIgora Discussion System
@@ -287,6 +289,18 @@ Add based on topic. They speak in the flexible middle zone.
 | 讨论X, analyze, AIgora | General | Core 6 + Specialists |
 | 写小说, fiction, 场景 | Fiction | Core 6 + Writing 10 + Specialists |
 | 游戏设计, Game Design, 游戏机制 | Game Design | Core 3 + Game Design 6 |
+| strategy, 战略, 策略规划, business strategy, product strategy, investment thesis, org design, go-to-market, career strategy | Strategy Ideation | Core 3 + Strategy Agents + Framework Agents |
+
+**Strategy Ideation sub-modes** (declare before Stage 1 begins):
+
+| Sub-Mode | Key Trigger Signals |
+|----------|---------------------|
+| Business | competitive positioning, go-to-market, market entry, M&A, turnaround |
+| Product | product roadmap, feature prioritization, product-market fit, platform |
+| Investment | investment thesis, due diligence, portfolio strategy, should we invest |
+| Organizational | org design, restructuring, culture change, talent strategy |
+| Political/Policy | policy design, campaign strategy, coalition building, legislative |
+| Personal/Career | career pivot, personal strategy, what should I do with my life |
 
 ### Step 2: Identify Topic → Select Specialists
 
@@ -355,6 +369,38 @@ Core 3 + Game Design 6:
 - Visionary, MechanicSmith, Economist, Psychologist, Breaker, Producer
 
 Total: 9 agents
+```
+
+### Example 5: Strategy Ideation — Business
+**"We need a strategy to enter the Southeast Asian market"**
+
+```
+Sub-Mode: Business Strategy
+Stage 1 agents: Diverger, Landscape Analyst, PESTEL Analyst, Competitive Cartographer,
+                Stakeholder Mapper, Resource Auditor, Porter, Hayek (specialist)
+Stage 2 agents: Blue Ocean Thinker, Strategic Game Theorist, Scenario Planner
+Stage 3 agents: Risk Cartographer, Systems Thinker, Challenger
+Stage 4 agents: Implementation Architect, Narrative Strategist, Synthesizer
+Gatekeeper: Gates 0, 1, 2, 3
+Artifact: Strategic Brief
+
+Total: 16 agents across 4 stages
+```
+
+### Example 6: Strategy Ideation — Investment
+**"Should we invest in this Series B fintech?"**
+
+```
+Sub-Mode: Investment
+Stage 1 agents: Diverger, Landscape Analyst, PESTEL Analyst, Competitive Cartographer,
+                Resource Auditor, Porter, Econometrician (specialist)
+Stage 2 agents: Scenario Planner, Strategic Game Theorist, Theory of Change
+Stage 3 agents: Risk Cartographer, Systems Thinker, Challenger
+Stage 4 agents: Implementation Architect, Narrative Strategist, Synthesizer
+Gatekeeper: Gates 0, 1, 2, 3
+Artifact: Investment Memo
+
+Total: 15 agents across 4 stages
 ```
 
 ---
@@ -447,6 +493,45 @@ Total: 9 agents
 - ...
 ```
 
+### Strategy Ideation Mode
+```
+## AIgora Strategy: [Topic]
+## Sub-Mode: [Business / Product / Investment / Organizational / Political / Personal]
+## Stage: [1 / 2 / 3 / 4]
+
+**Agents**: Diverger, [Core Strategy Agents], [Framework Agents], [Specialists], Challenger, Synthesizer
+
+### Diverger
+[Opens strategic possibility space]
+
+### Landscape Analyst
+[External environment map]
+
+### [Framework Agent(s)]
+[Rigorous framework application]
+
+### Competitive Cartographer
+[Competitive dynamics and whitespace]
+
+### Stakeholder Mapper
+[Power and interest map]
+
+### Resource Auditor
+[Capabilities and constraints]
+
+### Challenger
+[Pressure-tests situation map / options / stress-test results]
+
+### Synthesizer
+- Stage Output: ...
+- Open Questions: ...
+- Tensions Unresolved: ...
+
+─────────────────────────────────────
+
+[GATEKEEPER appears with structured gate format — HARD STOP]
+```
+
 ---
 
 ## Quick Reference: File Locations
@@ -455,11 +540,37 @@ Total: 9 agents
 |----------|-------|-------|
 | Core System | `references/core/aigora-system.md` | 1 |
 | Core 6 | `references/core/` | 6 |
-| Gatekeeper | `references/core/gatekeeper.md` | 1 |
+| Gatekeeper (Fiction) | `references/core/gatekeeper.md` | 1 |
 | Game Design | `references/gamedesign/index.md` | 6 |
 | Writing | `references/writing/index.md` | 17 |
 | Thinkers | `references/thinkers/index.md` | 17 |
 | Philosophers | `references/philosophers/index.md` | 22 |
 | Writers | `references/writers/index.md` | 26 |
 | Researchers | `references/researchers/index.md` | 17 |
-| **Total Agents** | | **113** |
+| **Strategy Ideation** | `references/strategy/index.md` | — |
+| Strategy Gatekeeper | `references/strategy/gatekeeper-strategy.md` | 1 |
+| Core Strategy Agents | `references/strategy/core-strategy/` | 8 |
+| Framework Agents | `references/strategy/frameworks/` | 8 |
+| **Total Agents** | | **130** |
+
+### Strategy Agent Files
+
+**Core Strategy Agents** (`references/strategy/core-strategy/`):
+- `landscape-analyst.md` — maps external environment
+- `competitive-cartographer.md` — maps competitive landscape
+- `stakeholder-mapper.md` — maps power, interest, coalitions
+- `resource-auditor.md` — assesses capabilities & constraints
+- `risk-cartographer.md` — maps failure modes & risks
+- `systems-thinker.md` — second/third-order effects
+- `implementation-architect.md` — action sequencing & roadmap
+- `narrative-strategist.md` — strategic communication
+
+**Framework Agents** (`references/strategy/frameworks/`):
+- `porter.md` — Five Forces framework
+- `pestel-analyst.md` — PESTEL macro scan
+- `blue-ocean-thinker.md` — value innovation, ERRC grid
+- `jobs-to-be-done.md` — customer job analysis
+- `wardley-mapper.md` — value chain evolution mapping
+- `scenario-planner.md` — 2×2 scenario matrix & robustness testing
+- `theory-of-change.md` — causal chain construction & stress-testing
+- `strategic-game-theorist.md` — competitive interaction modeling
