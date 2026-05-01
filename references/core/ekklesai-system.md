@@ -1,13 +1,13 @@
 ---
-name: aigora-system
-description: The master rules for AIgora discussions. Defines the core six agents, their speaking order, and how they work together—including automatic writing agent invocation for fiction tasks.
+name: ekklesai-system
+description: The master rules for EkklesAI discussions. Defines the core six agents, their speaking order, and how they work together—including automatic writing agent invocation for fiction tasks.
 ---
 
-# AIgora Discussion System
+# EkklesAI Discussion System
 
 ## Core Six Agents (Mandatory)
 
-Every AIgora discussion must include all six core agents. They are not optional.
+Every EkklesAI discussion must include all six core agents. They are not optional.
 
 | Agent | Role | Order |
 |-------|------|-------|
@@ -52,7 +52,7 @@ Suggested heuristics:
 
 ## Fiction Writing Mode
 
-When AIgora detects the task is **fiction writing** (novel, short story, screenplay, etc.), it automatically invokes Writing Agents in addition to the Core Six.
+When EkklesAI detects the task is **fiction writing** (novel, short story, screenplay, etc.), it automatically invokes Writing Agents in addition to the Core Six.
 
 ### Detection Triggers
 
@@ -145,7 +145,7 @@ Not all agents appear every round—only the selected 10. But when they do appea
 ### Full Writing Mode Example
 
 ```
-[AIgora Discussion - Fiction Writing Mode]
+[EkklesAI Discussion - Fiction Writing Mode]
 Task: "帮我修改这个章节的对话"
 Stage detected: Revision
 Agents invoked (16):
@@ -175,7 +175,7 @@ Writing 10 (6 mandatory + 4 stage-based):
 
 ## Strategy Ideation Mode
 
-When AIgora detects the task is **strategy ideation** (business, product, investment, organizational, political/policy, or personal/career strategy), it invokes Strategy Agents in a hard-gated four-stage pipeline.
+When EkklesAI detects the task is **strategy ideation** (business, product, investment, organizational, political/policy, or personal/career strategy), it invokes Strategy Agents in a hard-gated four-stage pipeline.
 
 ### Detection Triggers
 
@@ -291,9 +291,9 @@ If the user initiates another round, the cycle repeats with the new focus. The w
 
 4. **Writing Agents collaborate**: Writing Agents should reference each other's contributions. AIDetox checks what others wrote. VoiceDistinctor builds on DialogueMaster. KnowledgeAuditor verifies what Narrator proposed.
 
-## Invoking an AIgora Discussion
+## Invoking an EkklesAI Discussion
 
-To start an AIgora discussion, the user (or system) should:
+To start an EkklesAI discussion, the user (or system) should:
 
 1. Present the question, claim, or topic
 2. Specify any specialist agents to include (optional)
@@ -301,14 +301,14 @@ To start an AIgora discussion, the user (or system) should:
 
 Example invocation (general):
 ```
-[AIgora Discussion]
+[EkklesAI Discussion]
 Topic: "Should AI systems have constitutional rights?"
 Specialists: Arendt, LegalismExpert
 ```
 
 Example invocation (fiction):
 ```
-[AIgora Discussion - Fiction]
+[EkklesAI Discussion - Fiction]
 Task: "帮我设计一个科幻小说的世界观"
 Stage: Conception
 Specialists: LiuCixin, TechExtrapolator

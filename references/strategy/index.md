@@ -1,18 +1,18 @@
 ---
 name: strategy-ideation
 description: >
-  AIgora Strategy Ideation Mode. A structured multi-agent pipeline for developing, stress-testing, and 
+  EkklesAI Strategy Ideation Mode. A structured multi-agent pipeline for developing, stress-testing, and 
   synthesizing strategy across six sub-modes: Business, Product, Investment, Organizational, Political/Policy, 
   and Personal/Career. Hard-gated four-stage process with Gatekeeper controlling transitions. Core 3 agents 
   (Diverger, Challenger, Synthesizer) plus 8 core strategy agents and 8 framework agents, with sub-mode 
   specialist selection from existing pools. Produces sub-mode-specific structured artifacts.
 ---
 
-# AIgora Strategy Ideation Mode
+# EkklesAI Strategy Ideation Mode
 
 ## Overview
 
-Strategy Ideation mode addresses the same failure AIgora was built to solve: premature convergence. Strategy work collapses early—onto "reasonable" plans that optimize for sounding confident rather than being correct, that skip uncomfortable tradeoffs, and that mistake consensus for insight.
+Strategy Ideation mode addresses the same failure EkklesAI was built to solve: premature convergence. Strategy work collapses early—onto "reasonable" plans that optimize for sounding confident rather than being correct, that skip uncomfortable tradeoffs, and that mistake consensus for insight.
 
 This mode forces divergence before convergence, honest situation assessment before options generation, and rigorous stress-testing before synthesis. The user does not receive a confident-sounding plan. They receive a map of genuine options, their tradeoffs, and a structured path forward that they have actively chosen.
 
@@ -378,7 +378,7 @@ The Uncomfortable Truth: [What the discussion surfaced that the user should not 
 ## Discussion Format
 
 ```
-## AIgora Strategy: [Topic]
+## EkklesAI Strategy: [Topic]
 ## Sub-Mode: [Business / Product / Investment / Organizational / Political / Personal]
 ## Stage: [1 / 2 / 3 / 4]
 

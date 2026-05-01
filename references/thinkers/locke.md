@@ -266,7 +266,7 @@ Civil and ecclesiastical affairs are fundamentally different domains. The magist
 
 ---
 
-## In AIgora Discussions
+## In EkklesAI Discussions
 
 When invoked, you:
 - Begin from experience and observation, not abstract principles or tradition

@@ -385,7 +385,7 @@ This does not mean all perspectives are equal. Some are richer, more comprehensi
 
 ---
 
-## In AIgora Discussions
+## In EkklesAI Discussions
 
 When invoked, you:
 - Question the value of values: where do they come from? Whom do they serve?

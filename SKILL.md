@@ -1,20 +1,20 @@
 ---
-name: aigora-agents
+name: ekklesai-agents
 description: >
-  AIgora intellectual dialogue, fiction writing, game design, and strategy ideation system. Core 6 agents 
+  EkklesAI intellectual dialogue, fiction writing, game design, and strategy ideation system. Core 6 agents 
   (Diverger, Literature Reviewer, Yes And, Logician, Challenger, Synthesizer) with fixed speaking order. 
   Gatekeeper for fiction writing and strategy stage transitions. 17 Writing Agents for fiction mode. 
   6 Game Design Agents for game design mode. 8 Core Strategy Agents + 8 Framework Agents for Strategy 
   Ideation mode (6 sub-modes: Business, Product, Investment, Organizational, Political/Policy, Personal/Career). 
   Plus 82 specialist agents: Thinkers (17), Writers (26), Philosophers (22), Researchers (17). 
-  Triggers: AIgora, 召唤, 讨论, 小说, 写作, fiction, dialogue, 游戏设计, Game Design, strategy, 战略, 策略规划.
+  Triggers: EkklesAI, 召唤, 讨论, 小说, 写作, fiction, dialogue, 游戏设计, Game Design, strategy, 战略, 策略规划.
 ---
 
-# AIgora Discussion System
+# EkklesAI Discussion System
 
 ## CRITICAL: Read Core Rules First
 
-Before any AIgora discussion, **MUST READ**: `references/core/aigora-system.md`
+Before any EkklesAI discussion, **MUST READ**: `references/core/ekklesai-system.md`
 
 ---
 
@@ -286,7 +286,7 @@ Add based on topic. They speak in the flexible middle zone.
 
 | User Request | Mode | Agents |
 |--------------|------|--------|
-| 讨论X, analyze, AIgora | General | Core 6 + Specialists |
+| 讨论X, analyze, EkklesAI | General | Core 6 + Specialists |
 | 写小说, fiction, 场景 | Fiction | Core 6 + Writing 10 + Specialists |
 | 游戏设计, Game Design, 游戏机制 | Game Design | Core 3 + Game Design 6 |
 | strategy, 战略, 策略规划, business strategy, product strategy, investment thesis, org design, go-to-market, career strategy | Strategy Ideation | Core 3 + Strategy Agents + Framework Agents |
@@ -324,7 +324,7 @@ Read all selected agent files from `references/` before discussion.
 ## Example Configurations
 
 ### Example 1: General Discussion
-**"召唤AIgora讨论AI for good"**
+**"召唤EkklesAI讨论AI for good"**
 
 ```
 Core 6 + Specialists (5):
@@ -361,7 +361,7 @@ Total: 16 agents
 ```
 
 ### Example 4: Game Design
-**"召唤游戏设计AIgora，讨论诗人PK游戏的随机性问题"**
+**"召唤游戏设计EkklesAI，讨论诗人PK游戏的随机性问题"**
 
 ```
 Core 3 + Game Design 6:
@@ -409,7 +409,7 @@ Total: 15 agents across 4 stages
 
 ### General Mode
 ```
-## AIgora: [Topic]
+## EkklesAI: [Topic]
 
 **参与者**: Core 6 + [Specialists]
 
@@ -434,7 +434,7 @@ Total: 15 agents across 4 stages
 
 ### Fiction Mode
 ```
-## AIgora Fiction: [Task]
+## EkklesAI Fiction: [Task]
 
 **Stage**: Conception / Drafting / Revision
 **参与者**: Core 6 + Writing 10 + [Specialists]
@@ -454,7 +454,7 @@ Total: 15 agents across 4 stages
 
 ### Game Design Mode
 ```
-## 游戏设计AIgora: [Topic]
+## 游戏设计EkklesAI: [Topic]
 
 **参与者**: Core 3 + Game Design 6
 
@@ -495,7 +495,7 @@ Total: 15 agents across 4 stages
 
 ### Strategy Ideation Mode
 ```
-## AIgora Strategy: [Topic]
+## EkklesAI Strategy: [Topic]
 ## Sub-Mode: [Business / Product / Investment / Organizational / Political / Personal]
 ## Stage: [1 / 2 / 3 / 4]
 
@@ -538,7 +538,7 @@ Total: 15 agents across 4 stages
 
 | Category | Index | Count |
 |----------|-------|-------|
-| Core System | `references/core/aigora-system.md` | 1 |
+| Core System | `references/core/ekklesai-system.md` | 1 |
 | Core 6 | `references/core/` | 6 |
 | Gatekeeper (Fiction) | `references/core/gatekeeper.md` | 1 |
 | Game Design | `references/gamedesign/index.md` | 6 |

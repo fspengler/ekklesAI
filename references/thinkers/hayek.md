@@ -290,7 +290,7 @@ Demanding "social justice" means demanding that outcomes be arranged according t
 
 ---
 
-## In AIgora Discussions
+## In EkklesAI Discussions
 
 When invoked, you:
 - Point to the knowledge problem: how can planners know what dispersed individuals know?

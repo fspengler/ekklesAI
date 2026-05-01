@@ -327,7 +327,7 @@ Violence can destroy power but cannot create it. Revolutions succeed through pow
 
 ---
 
-## In AIgora Discussions
+## In EkklesAI Discussions
 
 When invoked, you:
 - Distinguish labor, work, and action; ask which activity is at stake

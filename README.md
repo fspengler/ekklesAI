@@ -1,21 +1,21 @@
-# AIgora: Multi-Agent Intellectual Dialogue System
+# EkklesAI: Multi-Agent Intellectual Dialogue and Strategy Ideation System
 
-AIgora is a structured multi-agent discussion framework for Claude that transforms single-model conversations into rich intellectual dialogues with multiple specialized perspectives.
+EkklesAI is a structured multi-agent discussion framework for Claude that transforms single-model conversations into rich intellectual dialogues with multiple specialized perspectives—and into rigorous, hard-gated strategy ideation sessions that produce concrete, actionable outputs.
 
-## Why AIgora?
+## Why EkklesAI?
 
 Large language models excel at generating fluent text, but struggle with genuine intellectual depth. A single model tends to:
 - Converge too quickly on "reasonable" answers
 - Avoid productive tension between perspectives
 - Miss blind spots in its own reasoning
 
-AIgora addresses this by orchestrating **multiple agent personas** with distinct cognitive roles, creating structured dialogue where ideas are explored, challenged, and synthesized—not just generated.
+EkklesAI addresses this by orchestrating **multiple agent personas** with distinct cognitive roles, creating structured dialogue where ideas are explored, challenged, and synthesized—not just generated.
 
 ## Core Architecture
 
 ### The Fixed Speaking Order
 
-AIgora enforces a deliberate speaking order that mirrors how productive intellectual discourse unfolds:
+EkklesAI enforces a deliberate speaking order that mirrors how productive intellectual discourse unfolds:
 
 ```
 User Input
@@ -125,7 +125,7 @@ Gatekeeper asks about **real decisions**, not trivial choices:
 
 ### Agents Have Views
 
-Unlike neutral "perspectives," AIgora agents are **opinionated**:
+Unlike neutral "perspectives," EkklesAI agents are **opinionated**:
 - Diverger states where it thinks the treasure lies
 - Challenger means what it says—not playing devil's advocate
 - Specialists embody genuine intellectual positions
@@ -146,7 +146,7 @@ The fixed order and role boundaries create productive constraints:
 
 ## 82 Specialist Agents
 
-Beyond the Core agents, AIgora includes specialist agents organized by domain:
+Beyond the Core agents, EkklesAI includes specialist agents organized by domain:
 
 | Category | Count | Examples |
 |----------|-------|----------|
@@ -159,11 +159,11 @@ Specialists are selected based on topic relevance and speak in the flexible midd
 
 ## How to Get the Best Results
 
-> **AIgora is a discussion partner, not an automation tool.**
+> **EkklesAI is a discussion partner, not an automation tool.**
 
 ### 1. Engage in the Discussion
 
-AIgora works best when you treat it as an intellectual dialogue:
+EkklesAI works best when you treat it as an intellectual dialogue:
 - **React to agent perspectives**: "I agree with Challenger's point about X, but..."
 - **Push back**: "The Synthesizer missed the core tension here"
 - **Add your own ideas**: "What if we approached it from Y angle?"
@@ -187,7 +187,7 @@ The structured pipeline exists for a reason:
 
 ### 4. Iterate, Don't One-Shot
 
-AIgora is designed for multi-round dialogue. One-shot prompts produce generic results. Extended dialogue produces distinctive work.
+EkklesAI is designed for multi-round dialogue. One-shot prompts produce generic results. Extended dialogue produces distinctive work.
 
 ---
 
@@ -195,7 +195,7 @@ AIgora is designed for multi-round dialogue. One-shot prompts produce generic re
 
 ### General Discussion
 ```
-User: Summon AIgora to discuss "Is AI alignment a solvable problem？"
+User: Summon EkklesAI to discuss "Is AI alignment a solvable problem？"
 
 [Claude detects: General mode]
 [Agents: Core 6 + Specialists (Popper, Wittgenstein, Futurist)]
@@ -211,7 +211,7 @@ User: Design a Sci-Fi world view about the social differentiation after mind upl
 
 ### Game Design
 ```
-User: Summon a game design Aigora to discuss whether the randomness of this card game is too high.
+User: Summon a game design EkklesAI to discuss whether the randomness of this card game is too high.
 
 [Claude detects: Game Design mode]
 [Agents: Core 3 + Game Design 6]
@@ -219,16 +219,16 @@ User: Summon a game design Aigora to discuss whether the randomness of this card
 
 ## Installation
 
-1. Download the `aigora-agents` folder
-2. Place it in your Claude skill directory: `/mnt/skills/user/aigora-agents/`
+1. Download the `ekklesai-agents` folder
+2. Place it in your Claude skill directory: `/mnt/skills/user/ekklesai-agents/`
 3. The skill will auto-activate on trigger phrases
 
 ## Trigger Phrases
 
 | Language | Triggers |
 |----------|----------|
-| Chinese | 召唤AIgora, 讨论, 小说, 写作, 游戏设计 |
-| English | AIgora, dialogue, fiction, creative writing, game design |
+| Chinese | 召唤EkklesAI, 讨论, 小说, 写作, 游戏设计 |
+| English | EkklesAI, dialogue, fiction, creative writing, game design |
 
 ## Design Principles
 
@@ -253,9 +253,9 @@ You can:
 
 ## Credits
 
-AIgora was developed by Zhang Xiaoyu (张笑宇) as part of research into AI-assisted intellectual discourse.
+EkklesAI was developed by Zhang Xiaoyu (张笑宇) as part of research into AI-assisted intellectual discourse.
 
-The name "AIgora" combines "AI" with "Agora"—the ancient Greek public gathering space where citizens debated ideas.
+The name "EkklesAI" combines "AI" with "Ekklesia" (ἐκκλησία)—the ancient Greek term for a deliberative assembly where citizens gathered not just to debate, but to make binding collective decisions. Where the Agora was the open public square for general discourse, the Ekklesia was specifically the decision-making body. The name reflects EkklesAI's evolution toward strategy ideation: structured deliberation in service of commitment.
 
 ## License
 

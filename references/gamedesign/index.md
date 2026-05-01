@@ -16,8 +16,8 @@
 ## When to Use
 
 Activate game design mode with:
-- "召唤游戏设计AIgora，讨论[问题]"
-- "Game Design AIgora: [问题]"
+- "召唤游戏设计EkklesAI，讨论[问题]"
+- "Game Design EkklesAI: [问题]"
 - "游戏设计讨论：[问题]"
 
 ## Speaking Order
