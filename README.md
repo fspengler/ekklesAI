@@ -44,82 +44,17 @@ User Input
 | **Logician** | Analyzes argument structure | Examines validity, identifies fallacies, clarifies reasoning chains. |
 | **Challenger** | Pressure-tests everything | Questions assumptions, stress-tests arguments, offers alternatives. |
 | **Synthesizer** | Closes the round | Extracts claims, identifies consensus/disagreement, prepares next steps. |
-| **Gatekeeper** | Controls stage transitions (Fiction mode) | Surfaces key decisions, ensures user confirms before proceeding. |
-
-### Three Specialized Modes
+### Two Modes
 
 **General Discussion Mode** (default)
 - Core 6 + topic-relevant specialists
-- For: Philosophy, policy analysis, complex decisions
+- For: Philosophy, policy analysis, complex decisions, intellectual discourse
 
-**Fiction Writing Mode** (triggers: 小说, story, character, scene...)
-- Core 6 + 10 Writing Agents + Gatekeeper (flow control)
-- Mandatory: AIDetox, VoiceDistinctor, KnowledgeAuditor, FirstReader, CharacterPsychologist, EmotionMaster
-- Stage-based: Conception / Drafting / Revision agents
-- **5-stage pipeline with 3 Gatekeeper checkpoints**
-
-**Game Design Mode** (triggers: 游戏设计, game mechanics, balance...)
-- Core 3 (Diverger, Challenger, Synthesizer) + 6 Game Design Agents
-- Visionary → MechanicSmith → Economist → Psychologist → Breaker → Producer
-
-## Fiction Writing Pipeline
-
-Fiction writing follows a structured pipeline with **Gatekeeper** controlling stage transitions:
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Stage 1: CONCEPTION                                        │
-│  Core 6 + Writing Agents explore directions                 │
-└─────────────────────┬───────────────────────────────────────┘
-                      ↓
-┌─────────────────────────────────────────────────────────────┐
-│  ★ GATEKEEPER                                               │
-│  Asks: What is the story about? What should reader feel?   │
-│  WAITS for user decision                                    │
-└─────────────────────┬───────────────────────────────────────┘
-                      ↓
-┌─────────────────────────────────────────────────────────────┐
-│  Stage 2: DETAILED OUTLINE                                  │
-│  Structure, scenes, character arcs                          │
-└─────────────────────┬───────────────────────────────────────┘
-                      ↓
-┌─────────────────────────────────────────────────────────────┐
-│  ★ GATEKEEPER                                               │
-│  Asks: Structure confirmed? Key moments? POV?              │
-│  WAITS for user decision                                    │
-└─────────────────────┬───────────────────────────────────────┘
-                      ↓
-┌─────────────────────────────────────────────────────────────┐
-│  Stage 3: DRAFTING                                          │
-│  Complete first draft                                       │
-└─────────────────────┬───────────────────────────────────────┘
-                      ↓
-┌─────────────────────────────────────────────────────────────┐
-│  Stage 4: CRITIQUE                                          │
-│  All agents review and identify issues                      │
-└─────────────────────┬───────────────────────────────────────┘
-                      ↓
-┌─────────────────────────────────────────────────────────────┐
-│  ★ GATEKEEPER                                               │
-│  Presents: Must fix / Should fix / Optional                │
-│  WAITS for user to accept                                   │
-└─────────────────────┬───────────────────────────────────────┘
-                      ↓
-┌─────────────────────────────────────────────────────────────┐
-│  Stage 5: REVISION + FINAL ASSESSMENT                       │
-│  Execute changes, score, export file                        │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### What Gatekeeper Asks
-
-Gatekeeper asks about **real decisions**, not trivial choices:
-
-| Stage | Must Ask | Don't Ask |
-|-------|----------|-----------|
-| Conception → Outline | Story core, emotional target, ending | Word count, formatting |
-| Outline → Drafting | Structure, key moments, POV | Style minutiae |
-| Critique → Revision | Accept/reject items | Grammar details |
+**Strategy Ideation Mode** (triggers: strategy, 战略, business strategy, product strategy, investment thesis...)
+- Hard-gated 4-stage pipeline: Context & Landscape → Options → Stress-Testing → Synthesis
+- 6 sub-modes: Business, Product, Investment, Organizational, Political/Policy, Personal/Career
+- **Gatekeeper controls 4 hard gates** — discussion does not advance without user confirmation
+- Produces sub-mode-specific structured artifacts (Strategic Brief, Investment Memo, etc.)
 
 ## Agent Philosophy
 
@@ -155,7 +90,7 @@ Beyond the Core agents, EkklesAI includes specialist agents organized by domain:
 | **Writers** | 26 | Homer, Dostoevsky, Borges, Liu Cixin, Jin Yong... |
 | **Researchers** | 17 | Econometrician, Game Theorist, Futurist... |
 
-Specialists are selected based on topic relevance and speak in the flexible middle zone.
+Specialists are selected based on topic relevance and speak in the flexible middle zone. In Strategy Ideation mode, relevant Thinkers and Researchers are drawn in as sub-mode specialists alongside the dedicated strategy and framework agents.
 
 ## How to Get the Best Results
 
@@ -168,24 +103,14 @@ EkklesAI works best when you treat it as an intellectual dialogue:
 - **Push back**: "The Synthesizer missed the core tension here"
 - **Add your own ideas**: "What if we approached it from Y angle?"
 
-### 2. Make Your Decisions Clear
+### 2. Commit at Gatekeeper Gates (Strategy Mode)
 
-At Gatekeeper checkpoints, you must decide:
-- What is the **core** of this story/argument/design?
-- What **emotion** should the reader feel?
-- What is the **main tension** you want to explore?
+In Strategy Ideation mode, the Gatekeeper will ask you to make real decisions at each stage transition. Don't defer:
 
 **Bad**: "Just pick something reasonable"  
-**Good**: "I want to explore the tension between connection and authenticity"
+**Good**: "I want to commit to Option B, but with the risk mitigation the Risk Cartographer identified"
 
-### 3. Don't Skip the Process
-
-The structured pipeline exists for a reason:
-- **Conception** → establishes what you're building
-- **Outline Review** → confirms direction before detailed work
-- **Critique** → catches problems before final polish
-
-### 4. Iterate, Don't One-Shot
+### 3. Iterate, Don't One-Shot
 
 EkklesAI is designed for multi-round dialogue. One-shot prompts produce generic results. Extended dialogue produces distinctive work.
 
@@ -201,20 +126,16 @@ User: Summon EkklesAI to discuss "Is AI alignment a solvable problem？"
 [Agents: Core 6 + Specialists (Popper, Wittgenstein, Futurist)]
 ```
 
-### Fiction Writing
+### Strategy Ideation
 ```
-User: Design a Sci-Fi world view about the social differentiation after mind uploading for me.
+User: We need a strategy to enter the Southeast Asian market.
 
-[Claude detects: Fiction mode, Conception stage]
-[Agents: Core 6 + Writing 10 + Gatekeeper + Specialists (Liu Cixin, Ted Chiang)]
-```
-
-### Game Design
-```
-User: Summon a game design EkklesAI to discuss whether the randomness of this card game is too high.
-
-[Claude detects: Game Design mode]
-[Agents: Core 3 + Game Design 6]
+[Claude detects: Strategy Ideation mode, Business sub-mode]
+[Gatekeeper: declares sub-mode, confirms roster]
+[Stage 1: Landscape Analyst, PESTEL Analyst, Competitive Cartographer, Stakeholder Mapper, Resource Auditor, Porter]
+[Stage 2: Blue Ocean Thinker, Strategic Game Theorist, Scenario Planner]
+[Stage 3: Risk Cartographer, Systems Thinker, Challenger]
+[Stage 4: Implementation Architect, Narrative Strategist, Synthesizer → Strategic Brief]
 ```
 
 ## Installation
@@ -227,8 +148,8 @@ User: Summon a game design EkklesAI to discuss whether the randomness of this ca
 
 | Language | Triggers |
 |----------|----------|
-| Chinese | 召唤EkklesAI, 讨论, 小说, 写作, 游戏设计 |
-| English | EkklesAI, dialogue, fiction, creative writing, game design |
+| Chinese | 召唤EkklesAI, 讨论, 战略, 策略规划 |
+| English | EkklesAI, dialogue, strategy, business strategy, investment thesis |
 
 ## Design Principles
 
