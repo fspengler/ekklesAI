@@ -38,16 +38,16 @@ or
 User: Let's have an EkklesAI discussion: Should AI systems be granted legal personhood?
 ```
 
-### Fiction Writing / 小说写作
+### Strategy Ideation / 战略构思
 
 ```
-User: 帮我构思一个科幻短篇，关于最后一个人类
+User: We need a strategy to enter the Southeast Asian market.
 ```
 
-### Game Design / 游戏设计
+or
 
 ```
-User: 召唤游戏设计EkklesAI，讨论这个RPG的战斗系统太单调
+User: 帮我制定一个产品战略，我们的Q3路线图需要重新规划
 ```
 
 ---
@@ -56,17 +56,17 @@ User: 召唤游戏设计EkklesAI，讨论这个RPG的战斗系统太单调
 
 When triggered, Claude will:
 
-1. **Detect mode**: General / Fiction / Game Design
-2. **Select agents**: Core 6 + relevant specialists
+1. **Detect mode**: General Discussion / Strategy Ideation
+2. **Select agents**: Core 6 + relevant specialists (General) or strategy pipeline agents (Strategy)
 3. **Run discussion**: Following fixed speaking order
-4. **Synthesize**: Consensus, disagreements, next steps
+4. **Synthesize**: Consensus, disagreements, next steps — or a structured artifact (Strategy mode)
 
 触发后，Claude 会：
 
-1. **检测模式**：通用 / 小说 / 游戏设计
-2. **选择智能体**：核心6 + 相关专家
+1. **检测模式**：通用讨论 / 战略构思
+2. **选择智能体**：核心6 + 相关专家（通用）或战略流程智能体（战略）
 3. **展开讨论**：遵循固定发言顺序
-4. **综合**：共识、分歧、下一步
+4. **综合**：共识、分歧、下一步 — 或结构化产出物（战略模式）
 
 ---
 
@@ -105,7 +105,7 @@ Edit files in `references/core/`. Be careful with the Synthesizer - it should ne
 1. **Be specific**: "讨论X" works better than "聊聊X"
 2. **Iterate**: Use Synthesizer's "Next Steps" to guide follow-up rounds
 3. **Add specialists**: "召唤EkklesAI讨论X，加入韦伯和福柯"
-4. **Switch modes**: "转入游戏设计模式" mid-conversation
+4. **Switch to strategy**: "Let's run this as a strategy ideation session" mid-conversation
 
 ---
 
@@ -118,7 +118,7 @@ Edit files in `references/core/`. Be careful with the Synthesizer - it should ne
 → Ask for another round: "继续下一轮讨论"
 
 **Wrong mode detected?**
-→ Specify: "使用小说写作模式" or "使用通用讨论模式"
+→ Specify: "使用战略构思模式" or "使用通用讨论模式"
 
 ---
 
