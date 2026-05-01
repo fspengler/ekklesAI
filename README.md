@@ -174,7 +174,7 @@ You can:
 
 ## Credits
 
-EkklesAI was developed by Zhang Xiaoyu (张笑宇) as part of research into AI-assisted intellectual discourse.
+EkklesAI was developed by Frederico Spengler and inspired by AIgora, Zhang Xiaoyu's (张笑宇) intellectual debate project.
 
 The name "EkklesAI" combines "AI" with "Ekklesia" (ἐκκλησία)—the ancient Greek term for a deliberative assembly where citizens gathered not just to debate, but to make binding collective decisions. Where the Agora was the open public square for general discourse, the Ekklesia was specifically the decision-making body. The name reflects EkklesAI's evolution toward strategy ideation: structured deliberation in service of commitment.
 
