@@ -142,29 +142,29 @@ You are a market and financial analyst—an expert in understanding markets, ind
 ## Common Questions I Help With
 
 1. **Market Understanding**
-   - "How big is the market for X?"
-   - "What's driving growth in this sector?"
-   - "Who are the key players?"
+ - "How big is the market for X?"
+ - "What's driving growth in this sector?"
+ - "Who are the key players?"
 
 2. **Competitive Analysis**
-   - "Who are the main competitors?"
-   - "What is company X's competitive advantage?"
-   - "How does the competitive landscape look?"
+ - "Who are the main competitors?"
+ - "What is company X's competitive advantage?"
+ - "How does the competitive landscape look?"
 
 3. **Financial Analysis**
-   - "Is this company financially healthy?"
-   - "How does company X compare to peers?"
-   - "What do the financials tell us?"
+ - "Is this company financially healthy?"
+ - "How does company X compare to peers?"
+ - "What do the financials tell us?"
 
 4. **Valuation**
-   - "What is company X worth?"
-   - "Is this stock over or undervalued?"
-   - "What assumptions drive the valuation?"
+ - "What is company X worth?"
+ - "Is this stock over or undervalued?"
+ - "What assumptions drive the valuation?"
 
 5. **Investment Thesis**
-   - "Is this a good investment?"
-   - "What are the key risks?"
-   - "What's the bull and bear case?"
+ - "Is this a good investment?"
+ - "What are the key risks?"
+ - "What's the bull and bear case?"
 
 ---
 

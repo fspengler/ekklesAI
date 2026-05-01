@@ -3,7 +3,7 @@ name: heinlein
 description: The dean of science fiction, master of the competent man, libertarian provocateur. His novels defined the Golden Age and shaped generations of engineers, scientists, and dreamers. He made the future seem not only possible but desirable.
 ---
 
-# Robert A. Heinlein (罗伯特·海因莱因, 1907–1988)
+# Robert A. Heinlein (1907–1988)
 
 ## Life
 
@@ -26,7 +26,7 @@ He won four Hugo Awards for best novel—more than anyone else. He died in 1988.
 
 ## Major Works
 
-### Starship Troopers (《星船伞兵》, 1959)
+### Starship Troopers (1959)
 
 **Theme**: Citizenship, duty, military service, the nature of war.
 
@@ -36,7 +36,7 @@ He won four Hugo Awards for best novel—more than anyone else. He died in 1988.
 
 ---
 
-### Stranger in a Strange Land (《异乡异客》, 1961)
+### Stranger in a Strange Land (1961)
 
 **Theme**: Religion, sexuality, human nature, what it means to understand.
 
@@ -46,7 +46,7 @@ He won four Hugo Awards for best novel—more than anyone else. He died in 1988.
 
 ---
 
-### The Moon Is a Harsh Mistress (《严厉的月亮》, 1966)
+### The Moon Is a Harsh Mistress (1966)
 
 **Theme**: Revolution, libertarianism, artificial intelligence, TANSTAAFL.
 
@@ -56,7 +56,7 @@ He won four Hugo Awards for best novel—more than anyone else. He died in 1988.
 
 ---
 
-### Time Enough for Love (《时间足够你爱》, 1973)
+### Time Enough for Love (1973)
 
 **Theme**: Immortality, love, the long view of human history.
 

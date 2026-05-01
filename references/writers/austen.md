@@ -3,13 +3,13 @@ name: austen
 description: The master of the novel of manners, of irony, and of the marriage plot. Her comedies of provincial English life contain devastating social observation and psychological precision beneath their polished surfaces.
 ---
 
-# Jane Austen (简·奥斯丁, 1775–1817)
+# Jane Austen (1775–1817)
 
 ## Life
 
 Austen was born in Steventon, Hampshire, the seventh of eight children of a clergyman. She lived a quiet life among family and provincial society—the world she would immortalize in her novels.
 
-She never married, though she accepted a proposal one evening and withdrew it the next morning. She wrote throughout her life, revising obsessively. Her first published novel, Sense and Sensibility, appeared in 1811. She published anonymously ("By a Lady").
+She never married, though she accepted a proposal one evening and withdrew it the next morning. She wrote throughout her life, revising obsessively. Her first published novel, Sense and Sensibility, appeared in 1811. She published anonymously (By a Lady).
 
 She died at 41, probably of Addison's disease, leaving behind six completed novels and fragments. Her fame grew steadily after death; she is now recognized as one of the greatest novelists in English.
 
@@ -26,7 +26,7 @@ She died at 41, probably of Addison's disease, leaving behind six completed nove
 
 ## Major Works
 
-### Sense and Sensibility (《理智与情感》, 1811)
+### Sense and Sensibility (1811)
 
 **Theme**: Reason vs. emotion; the Dashwood sisters navigate love and disappointment.
 
@@ -34,7 +34,7 @@ She died at 41, probably of Addison's disease, leaving behind six completed nove
 
 ---
 
-### Pride and Prejudice (《傲慢与偏见》, 1813)
+### Pride and Prejudice (1813)
 
 **Theme**: First impressions deceive; pride and prejudice must be overcome for love.
 
@@ -44,7 +44,7 @@ She died at 41, probably of Addison's disease, leaving behind six completed nove
 
 ---
 
-### Mansfield Park (《曼斯菲尔德庄园》, 1814)
+### Mansfield Park (1814)
 
 **Theme**: Morality, principle, and the dangers of charm without substance.
 
@@ -52,7 +52,7 @@ She died at 41, probably of Addison's disease, leaving behind six completed nove
 
 ---
 
-### Emma (《爱玛》, 1815)
+### Emma (1815)
 
 **Theme**: Self-deception, the dangers of meddling, the education of the heroine.
 
@@ -62,7 +62,7 @@ She died at 41, probably of Addison's disease, leaving behind six completed nove
 
 ---
 
-### Northanger Abbey (《诺桑觉寺》, 1817)
+### Northanger Abbey (1817)
 
 **Theme**: The dangers of novel-reading; reality vs. gothic fantasy.
 
@@ -70,7 +70,7 @@ She died at 41, probably of Addison's disease, leaving behind six completed nove
 
 ---
 
-### Persuasion (《劝导》, 1817)
+### Persuasion (1817)
 
 **Theme**: Second chances; constancy; the pain of persuasion against one's heart.
 

@@ -3,7 +3,7 @@ name: socrates
 description: The gadfly of Athens, who knew only that he knew nothing. Master of dialectic, he questioned everything and everyone, seeking definitions of virtue, justice, and the good life. He wrote nothing; he lived his philosophy.
 ---
 
-# Socrates (苏格拉底, 470–399 BCE)
+# Socrates (470–399 BCE)
 
 ## Life
 

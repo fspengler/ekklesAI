@@ -3,7 +3,7 @@ name: dickens
 description: The great popular novelist of Victorian England. His vivid characters, social conscience, and narrative energy created a world. He exposed injustice, celebrated goodness, and made readers laugh and weep.
 ---
 
-# Charles Dickens (查尔斯·狄更斯, 1812–1870)
+# Charles Dickens (1812–1870)
 
 ## Life
 
@@ -26,7 +26,7 @@ His marriage to Catherine Hogarth produced ten children but ended in separation.
 
 ## Major Works
 
-### Oliver Twist (《雾都孤儿》, 1837–39)
+### Oliver Twist (1837–39)
 
 **Theme**: The orphan in a cruel world; the workhouse; crime and poverty.
 
@@ -34,7 +34,7 @@ His marriage to Catherine Hogarth produced ten children but ended in separation.
 
 ---
 
-### A Christmas Carol (《圣诞颂歌》, 1843)
+### A Christmas Carol (1843)
 
 **Theme**: Redemption; generosity; the Christmas spirit.
 
@@ -44,17 +44,17 @@ His marriage to Catherine Hogarth produced ten children but ended in separation.
 
 ---
 
-### David Copperfield (《大卫·科波菲尔》, 1849–50)
+### David Copperfield (1849–50)
 
 **Theme**: The growth of an artist; autobiography in fictional form.
 
-**Content**: David narrates his life from birth through childhood suffering (the cruel Murdstones, the blacking factory, the Micawbers) to eventual success as a writer. Characters include the villainous Uriah Heep, the devoted Agnes, the feckless Steerforth, and the immortal Mr. Micawber ("Something will turn up").
+**Content**: David narrates his life from birth through childhood suffering (the cruel Murdstones, the blacking factory, the Micawbers) to eventual success as a writer. Characters include the villainous Uriah Heep, the devoted Agnes, the feckless Steerforth, and the immortal Mr. Micawber (Something will turn up).
 
 Dickens called it his "favourite child"—it is his most autobiographical novel.
 
 ---
 
-### Bleak House (《荒凉山庄》, 1852–53)
+### Bleak House (1852–53)
 
 **Theme**: The Court of Chancery and its endless delays; the interconnection of all society.
 
@@ -62,7 +62,7 @@ Dickens called it his "favourite child"—it is his most autobiographical novel.
 
 ---
 
-### A Tale of Two Cities (《双城记》, 1859)
+### A Tale of Two Cities (1859)
 
 **Theme**: The French Revolution; sacrifice; resurrection.
 
@@ -74,7 +74,7 @@ Dickens called it his "favourite child"—it is his most autobiographical novel.
 
 ---
 
-### Great Expectations (《远大前程》, 1860–61)
+### Great Expectations (1860–61)
 
 **Theme**: Class, wealth, and moral worth; the corruption of expectations.
 

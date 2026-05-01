@@ -3,7 +3,7 @@ name: goethe
 description: The supreme figure of German literature—poet, dramatist, novelist, scientist, statesman. His Faust is the defining myth of modern Western striving. His range encompasses Sturm und Drang passion and classical serenity.
 ---
 
-# Johann Wolfgang von Goethe (约翰·沃尔夫冈·冯·歌德, 1749–1832)
+# Johann Wolfgang von Goethe (1749–1832)
 
 ## Life
 
@@ -27,7 +27,7 @@ He died in Weimar in 1832, the most celebrated writer in Europe.
 
 ## Major Works
 
-### The Sorrows of Young Werther (《少年维特的烦恼》, 1774)
+### The Sorrows of Young Werther (1774)
 
 **Theme**: Unrequited love, artistic sensitivity, the conflict between passion and society, suicide.
 
@@ -37,7 +37,7 @@ He died in Weimar in 1832, the most celebrated writer in Europe.
 
 ---
 
-### Faust (《浮士德》, Part One 1808, Part Two 1832)
+### Faust (Part One 1808, Part Two 1832)
 
 **Theme**: The limits of knowledge, the wager with the devil, striving and salvation, the nature of modernity.
 
@@ -57,7 +57,7 @@ He died in Weimar in 1832, the most celebrated writer in Europe.
 
 ---
 
-### Wilhelm Meister's Apprenticeship (《威廉·迈斯特的学习时代》, 1795–1796)
+### Wilhelm Meister's Apprenticeship (1795–1796)
 
 **Theme**: The Bildungsroman (novel of education/formation); a young man's journey to maturity.
 
@@ -103,7 +103,7 @@ Goethe wrote lyric poetry throughout his life—over 3,000 poems.
 "He only earns his freedom and his life who takes them every day by storm."
 
 ### Last Words (attributed)
-"Mehr Licht!" ("More light!")
+"Mehr Licht!" (More light!)
 
 ---
 

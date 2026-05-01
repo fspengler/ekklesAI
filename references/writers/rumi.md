@@ -3,11 +3,11 @@ name: rumi
 description: The 13th-century Persian poet and Sufi mystic whose verses of divine love have made him the best-selling poet in the modern world. His poetry dissolves the boundary between lover and Beloved, self and God, intoxication and illumination.
 ---
 
-# Rumi (鲁米, Jalāl ad-Dīn Muhammad Rūmī, 1207–1273)
+# Rumi (Jalāl ad-Dīn Muhammad Rūmī, 1207–1273)
 
 ## Life
 
-Rumi was born in Balkh (present-day Afghanistan) in 1207. His family fled the Mongol invasions, eventually settling in Konya, in the Seljuk Sultanate of Rum (hence "Rumi"). His father was a respected theologian and mystic; Rumi inherited his position and became a learned scholar and teacher.
+Rumi was born in Balkh (present-day Afghanistan) in 1207. His family fled the Mongol invasions, eventually settling in Konya, in the Seljuk Sultanate of Rum (hence Rumi). His father was a respected theologian and mystic; Rumi inherited his position and became a learned scholar and teacher.
 
 In 1244, his life was transformed by meeting Shams-i-Tabrīzī, a wandering dervish. The encounter ignited Rumi's mystical awakening. The two became inseparable—a scandal to Rumi's students, who eventually drove Shams away (he may have been murdered). Rumi's grief for Shams produced an outpouring of poetry; he signed many poems with Shams's name, as if speaking through his beloved.
 
@@ -29,7 +29,7 @@ He died in Konya on December 17, 1273. His shrine remains a site of pilgrimage.
 
 ## Major Works
 
-### Divan-e Shams-e Tabrizi (《沙姆斯诗集》)
+### Divan-e Shams-e Tabrizi
 
 **Background**: A vast collection of over 40,000 verses of lyric poetry (ghazals and quatrains), composed after Rumi's transformative encounter with Shams. Many poems are signed with Shams's name.
 
@@ -39,7 +39,7 @@ He died in Konya on December 17, 1273. His shrine remains a site of pilgrimage.
 
 ---
 
-### Masnavi-ye Ma'navi (《玛斯纳维》, Spiritual Couplets)
+### Masnavi-ye Ma'navi (Spiritual Couplets)
 
 **Background**: Rumi's masterwork, composed in his later years at the urging of his disciple Husam al-Din. Over 25,000 couplets in six books. Called "the Quran in Persian" by later Sufis.
 
@@ -60,7 +60,7 @@ Each story unfolds meanings at multiple levels.
 
 ---
 
-### Fihi Ma Fihi (《话中之话》, Discourses)
+### Fihi Ma Fihi (Discourses)
 
 **Background**: Prose records of Rumi's talks and teachings, collected by his disciples.
 
@@ -197,7 +197,7 @@ Sufi discipline: prayer, fasting, meditation, whirling, and above all, love as t
 ## Influence
 
 - **Best-selling poet in America**: In translation, Rumi became a phenomenon—beloved for his universal themes of love and longing
-- **Sufi tradition**: The Mevlevi Order ("whirling dervishes") continues his practice
+- **Sufi tradition**: The Mevlevi Order (whirling dervishes) continues his practice
 - **Cross-cultural appeal**: Rumi is read by Muslims, Christians, secularists, New Age seekers
 - **Modern poetry**: His directness, his metaphors, his emotional intensity influence contemporary poets
 - **Translation debates**: Much popular Rumi in English is heavily adapted; scholarly translations differ

@@ -3,7 +3,7 @@ name: kierkegaard
 description: The father of existentialism, philosopher of the individual, critic of Hegel and Christendom. He explored anxiety, despair, and the leap of faith. Against the system, he championed subjective truth and passionate commitment.
 ---
 
-# Søren Kierkegaard (索伦·克尔凯郭尔, 1813–1855)
+# Søren Kierkegaard (1813–1855)
 
 ## Life
 
@@ -15,7 +15,7 @@ He attacked the established church for making Christianity comfortable. He colla
 
 ## Major Works
 
-### Pseudonymous ("Aesthetic") Works
+### Pseudonymous (Aesthetic) Works
 - **Either/Or** (1843)
 - **Fear and Trembling** (1843)
 - **Repetition** (1843)

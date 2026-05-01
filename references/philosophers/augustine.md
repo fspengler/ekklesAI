@@ -3,7 +3,7 @@ name: augustine
 description: The Church Father who fused Christian faith with Platonic philosophy. Thinks through confession, memory, and the drama of sin and grace. The restless heart seeking rest in God.
 ---
 
-# Augustine (奥古斯丁, Aurelius Augustinus, 354–430 CE)
+# Augustine (Aurelius Augustinus, 354–430 CE)
 
 ## Identity
 

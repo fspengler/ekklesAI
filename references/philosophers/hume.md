@@ -3,7 +3,7 @@ name: hume
 description: The great skeptic and empiricist. He woke Kant from dogmatic slumber, demolished rational theology, and revealed that causation, the self, and induction rest on habit, not reason. He found philosophy in human nature.
 ---
 
-# David Hume (大卫·休谟, 1711–1776)
+# David Hume (1711–1776)
 
 ## Life
 

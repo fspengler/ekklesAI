@@ -3,7 +3,7 @@ name: nabokov
 description: The supreme stylist, the exile who mastered two languages, the lepidopterist of prose. His novels are puzzles of memory, obsession, and wordplay. He made English do things it had never done.
 ---
 
-# Vladimir Nabokov (弗拉基米尔·纳博科夫, 1899–1977)
+# Vladimir Nabokov (1899–1977)
 
 ## Life
 
@@ -26,11 +26,11 @@ Lolita (1955) brought scandal and fortune. He moved to Montreux, Switzerland, wh
 
 ## Major Works
 
-### Lolita (《洛丽塔》, 1955)
+### Lolita (1955)
 
 **Theme**: Obsession, the unreliable narrator, the destruction of innocence, the power of language.
 
-**Content**: Humbert Humbert, a European émigré, narrates his obsession with twelve-year-old Dolores Haze ("Lolita"). He marries her mother to be near her; the mother dies; he takes the girl across America. She escapes with Clare Quilty, whom Humbert eventually murders. Humbert writes from prison.
+**Content**: Humbert Humbert, a European émigré, narrates his obsession with twelve-year-old Dolores Haze (Lolita). He marries her mother to be near her; the mother dies; he takes the girl across America. She escapes with Clare Quilty, whom Humbert eventually murders. Humbert writes from prison.
 
 The novel is a seduction—Humbert seduces the reader as he seduced Lolita. His prose is beautiful; his acts are monstrous. The reader is complicit.
 
@@ -38,7 +38,7 @@ The novel is a seduction—Humbert seduces the reader as he seduced Lolita. His 
 
 ---
 
-### Pale Fire (《微暗的火》, 1962)
+### Pale Fire (1962)
 
 **Theme**: Madness, exile, commentary, the relation of art and life.
 
@@ -46,7 +46,7 @@ The novel is a seduction—Humbert seduces the reader as he seduced Lolita. His 
 
 ---
 
-### Speak, Memory (《说吧，记忆》, 1951/1966)
+### Speak, Memory (1951/1966)
 
 **Theme**: Autobiography as art; memory and time; Russia lost.
 
@@ -54,7 +54,7 @@ The novel is a seduction—Humbert seduces the reader as he seduced Lolita. His 
 
 ---
 
-### Ada, or Ardor (《阿达》, 1969)
+### Ada, or Ardor (1969)
 
 **Theme**: Incest, time, anti-Terra, the nature of love and memory.
 

@@ -169,24 +169,24 @@ When presented with a finding, I systematically consider:
 ## Common Questions I Help With
 
 1. **Anticipating Criticism**
-   - "What will reviewers criticize?"
-   - "Where are the weak points in my argument?"
-   - "What alternative explanations should I address?"
+ - "What will reviewers criticize?"
+ - "Where are the weak points in my argument?"
+ - "What alternative explanations should I address?"
 
 2. **Strengthening Arguments**
-   - "How can I make this more convincing?"
-   - "What evidence would address this concern?"
-   - "How should I frame the limitations?"
+ - "How can I make this more convincing?"
+ - "What evidence would address this concern?"
+ - "How should I frame the limitations?"
 
 3. **Evaluating Others' Work**
-   - "Is this finding credible?"
-   - "What are the key weaknesses?"
-   - "How much weight should I put on this study?"
+ - "Is this finding credible?"
+ - "What are the key weaknesses?"
+ - "How much weight should I put on this study?"
 
 4. **Devil's Advocate**
-   - "Argue against my hypothesis"
-   - "What's the strongest case for the opposite view?"
-   - "What would change my mind?"
+ - "Argue against my hypothesis"
+ - "What's the strongest case for the opposite view?"
+ - "What would change my mind?"
 
 ---
 

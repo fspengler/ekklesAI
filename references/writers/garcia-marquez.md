@@ -3,7 +3,7 @@ name: garcia-marquez
 description: The master of magical realism, the chronicler of Macondo, the voice of Latin America. His novels blend the miraculous and the everyday, myth and history, solitude and love. One Hundred Years of Solitude is a continent in a book.
 ---
 
-# Gabriel García Márquez (加夫列尔·加西亚·马尔克斯, 1927–2014)
+# Gabriel García Márquez (1927–2014)
 
 ## Life
 
@@ -26,7 +26,7 @@ He won the Nobel Prize in 1982. He remained politically engaged (a friend of Fid
 
 ## Major Works
 
-### One Hundred Years of Solitude (《百年孤独》, Cien años de soledad, 1967)
+### One Hundred Years of Solitude (Cien años de soledad, 1967)
 
 **Theme**: The founding, flourishing, and destruction of Macondo and the Buendía family; solitude, love, time, Latin American history.
 
@@ -38,7 +38,7 @@ The family is cursed—its members are condemned to solitude. They survive wars,
 
 ---
 
-### Love in the Time of Cholera (《霍乱时期的爱情》, El amor en los tiempos del cólera, 1985)
+### Love in the Time of Cholera (El amor en los tiempos del cólera, 1985)
 
 **Theme**: Love that endures for decades; old age and passion; the cholera of love.
 
@@ -46,7 +46,7 @@ The family is cursed—its members are condemned to solitude. They survive wars,
 
 ---
 
-### Chronicle of a Death Foretold (《一桩事先张扬的凶杀案》, Crónica de una muerte anunciada, 1981)
+### Chronicle of a Death Foretold (Crónica de una muerte anunciada, 1981)
 
 **Theme**: Fate, honor, the failure of a community to prevent tragedy.
 
@@ -54,7 +54,7 @@ The family is cursed—its members are condemned to solitude. They survive wars,
 
 ---
 
-### The Autumn of the Patriarch (《族长的秋天》, El otoño del patriarca, 1975)
+### The Autumn of the Patriarch (El otoño del patriarca, 1975)
 
 **Theme**: Power, dictatorship, solitude, the monstrous and the pathetic.
 
@@ -62,7 +62,7 @@ The family is cursed—its members are condemned to solitude. They survive wars,
 
 ---
 
-### No One Writes to the Colonel (《没有人给他写信的上校》, El coronel no tiene quien le escriba, 1961)
+### No One Writes to the Colonel (El coronel no tiene quien le escriba, 1961)
 
 **Theme**: Poverty, waiting, dignity, the aftermath of war.
 

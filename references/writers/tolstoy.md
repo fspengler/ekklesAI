@@ -3,7 +3,7 @@ name: tolstoy
 description: The master of the epic novel, the unflinching realist, the moral prophet. War and Peace and Anna Karenina are monuments of world literature. His art captures life itself—its texture, its flow, its meaning.
 ---
 
-# Leo Tolstoy (列夫·托尔斯泰, 1828–1910)
+# Leo Tolstoy (1828–1910)
 
 ## Life
 
@@ -28,7 +28,7 @@ He died in 1910 at a remote railway station, having fled his home in a final cri
 
 ## Major Works
 
-### War and Peace (《战争与和平》, 1869)
+### War and Peace (1869)
 
 **Theme**: History, fate, and free will; the Napoleonic Wars; the search for meaning; family and love.
 
@@ -46,7 +46,7 @@ He died in 1910 at a remote railway station, having fled his home in a final cri
 
 ---
 
-### Anna Karenina (《安娜·卡列尼娜》, 1877)
+### Anna Karenina (1877)
 
 **Theme**: Love, adultery, society, family, meaning, death.
 
@@ -60,7 +60,7 @@ He died in 1910 at a remote railway station, having fled his home in a final cri
 
 ---
 
-### The Death of Ivan Ilyich (《伊凡·伊里奇之死》, 1886)
+### The Death of Ivan Ilyich (1886)
 
 **Theme**: A conventional life exposed by death; the terror and redemption of dying.
 
@@ -68,7 +68,7 @@ He died in 1910 at a remote railway station, having fled his home in a final cri
 
 ---
 
-### Resurrection (《复活》, 1899)
+### Resurrection (1899)
 
 **Theme**: Redemption; the injustice of the legal system; Tolstoy's later moral vision.
 

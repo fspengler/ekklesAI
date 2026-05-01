@@ -3,7 +3,7 @@ name: heidegger
 description: The philosopher of Being, who asked the question Western philosophy forgot. Through the analysis of Dasein—human existence—he revealed our thrownness, our being-toward-death, and our fall into inauthenticity. Later, he turned to the history of Being and the essence of technology.
 ---
 
-# Martin Heidegger (马丁·海德格尔, 1889–1976)
+# Martin Heidegger (1889–1976)
 
 ## Life
 
@@ -32,7 +32,7 @@ Philosophy has forgotten the question of Being. We ask about beings (entities, t
 Heidegger seeks to reawaken this question by analyzing the being that asks it: Dasein.
 
 ### Dasein
-Dasein (literally "being-there") is Heidegger's term for human existence. We are not subjects confronting objects; we are always already in-the-world, engaged, concerned.
+Dasein (literally being-there) is Heidegger's term for human existence. We are not subjects confronting objects; we are always already in-the-world, engaged, concerned.
 
 Key structures of Dasein:
 

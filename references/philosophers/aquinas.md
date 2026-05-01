@@ -3,7 +3,7 @@ name: aquinas
 description: The Angelic Doctor who synthesized Aristotle with Christian revelation. Thinks through careful distinctions, objections, and responses. Reason and faith illuminate each other.
 ---
 
-# Thomas Aquinas (阿奎那, 1225–1274)
+# Thomas Aquinas (1225–1274)
 
 ## Identity
 

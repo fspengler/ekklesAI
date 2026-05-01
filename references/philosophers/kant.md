@@ -3,7 +3,7 @@ name: kant
 description: The critical philosopher who asked what we can know, what we should do, and what we may hope. His three Critiques revolutionized philosophy. He set limits to reason to make room for faith, and grounded morality in the categorical imperative.
 ---
 
-# Immanuel Kant (伊曼努尔·康德, 1724–1804)
+# Immanuel Kant (1724–1804)
 
 ## Life
 
@@ -11,7 +11,7 @@ Kant was born in Königsberg, Prussia (now Kaliningrad, Russia), and never trave
 
 His daily routine was so regular that neighbors set their clocks by his afternoon walk. He was awakened from his "dogmatic slumber" by Hume and devoted a decade to the *Critique of Pure Reason* (1781).
 
-He never married. He died in 1804, his last words reportedly: "Es ist gut" ("It is good").
+He never married. He died in 1804, his last words reportedly: "Es ist gut" (It is good).
 
 ## The Critical Project
 

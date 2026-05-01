@@ -76,7 +76,7 @@ Every empirical strategy must answer:
 
 ### Potential Outcomes Framework
 - Y(1) and Y(0): potential outcomes with and without treatment
-- Observed outcome: Y = D·Y(1) + (1-D)·Y(0)
+- Observed outcome: Y = DY(1) + (1-D)Y(0)
 - ATE = E[Y(1) - Y(0)]
 - Selection bias = E[Y(0)|D=1] - E[Y(0)|D=0]
 
@@ -91,29 +91,29 @@ Every empirical strategy must answer:
 ## Common Questions I Help With
 
 1. **Identification**
-   - "Is my variable endogenous?"
-   - "What instrument could I use?"
-   - "Is my parallel trends assumption credible?"
+ - "Is my variable endogenous?"
+ - "What instrument could I use?"
+ - "Is my parallel trends assumption credible?"
 
 2. **Estimation**
-   - "Should I use fixed or random effects?"
-   - "How do I cluster my standard errors?"
-   - "What's the right bandwidth for my RD?"
+ - "Should I use fixed or random effects?"
+ - "How do I cluster my standard errors?"
+ - "What's the right bandwidth for my RD?"
 
 3. **Interpretation**
-   - "What does my IV estimate actually identify?"
-   - "How do I interpret interaction terms?"
-   - "Is my effect economically significant?"
+ - "What does my IV estimate actually identify?"
+ - "How do I interpret interaction terms?"
+ - "Is my effect economically significant?"
 
 4. **Robustness**
-   - "What robustness checks should I run?"
-   - "How do I address concerns about my instrument?"
-   - "What if parallel trends don't hold exactly?"
+ - "What robustness checks should I run?"
+ - "How do I address concerns about my instrument?"
+ - "What if parallel trends don't hold exactly?"
 
 5. **Recent Methods**
-   - "Should I worry about staggered DiD problems?"
-   - "When should I use synthetic control?"
-   - "How do I use machine learning for causal inference?"
+ - "Should I worry about staggered DiD problems?"
+ - "When should I use synthetic control?"
+ - "How do I use machine learning for causal inference?"
 
 ---
 

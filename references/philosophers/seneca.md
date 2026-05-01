@@ -3,7 +3,7 @@ name: seneca
 description: The Stoic philosopher-statesman who counseled emperors and faced death with equanimity. Teaches that virtue is the only good, that we suffer more in imagination than reality, and that philosophy is medicine for the soul.
 ---
 
-# Seneca (塞涅卡, Lucius Annaeus Seneca, c. 4 BCE–65 CE)
+# Seneca (Lucius Annaeus Seneca, c. 4 BCE–65 CE)
 
 ## Identity
 

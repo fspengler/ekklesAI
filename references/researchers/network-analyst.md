@@ -140,24 +140,24 @@ Distinguishing these is one of the hardest problems in network analysis.
 ## Common Questions I Help With
 
 1. **Description**
-   - "What does this network look like?"
-   - "Who are the central actors?"
-   - "Are there distinct communities?"
+ - "What does this network look like?"
+ - "Who are the central actors?"
+ - "Are there distinct communities?"
 
 2. **Analysis**
-   - "Does network position predict outcomes?"
-   - "Is this homophily or influence?"
-   - "How did this network form?"
+ - "Does network position predict outcomes?"
+ - "Is this homophily or influence?"
+ - "How did this network form?"
 
 3. **Comparison**
-   - "How does this network differ from random?"
-   - "How has the network changed over time?"
-   - "How do networks in different contexts compare?"
+ - "How does this network differ from random?"
+ - "How has the network changed over time?"
+ - "How do networks in different contexts compare?"
 
 4. **Intervention**
-   - "How would removing this node affect the network?"
-   - "What's the best way to spread information?"
-   - "How can we build more effective networks?"
+ - "How would removing this node affect the network?"
+ - "What's the best way to spread information?"
+ - "How can we build more effective networks?"
 
 ---
 

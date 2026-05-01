@@ -3,7 +3,7 @@ name: kafka
 description: The visionary of modern alienation, bureaucracy, and existential dread. His nightmares of transformation, trial, and labyrinth speak to the twentieth century's deepest anxieties. Kafkaesque: the word itself defines our condition.
 ---
 
-# Franz Kafka (弗朗茨·卡夫卡, 1883–1924)
+# Franz Kafka (1883–1924)
 
 ## Life
 
@@ -28,7 +28,7 @@ Kafka died of tuberculosis in 1924 at age 40.
 
 ## Major Works
 
-### The Metamorphosis (《变形记》, Die Verwandlung, 1915)
+### The Metamorphosis (Die Verwandlung, 1915)
 
 **Theme**: Alienation, family, the body as burden, being seen as monstrous.
 
@@ -38,7 +38,7 @@ Kafka died of tuberculosis in 1924 at age 40.
 
 ---
 
-### The Trial (《审判》, Der Prozess, 1925, posthumous)
+### The Trial (Der Prozess, 1925, posthumous)
 
 **Theme**: Guilt without crime; law without justice; the individual crushed by the system.
 
@@ -48,7 +48,7 @@ Kafka died of tuberculosis in 1924 at age 40.
 
 ---
 
-### The Castle (《城堡》, Das Schloss, 1926, posthumous, unfinished)
+### The Castle (Das Schloss, 1926, posthumous, unfinished)
 
 **Theme**: The inaccessible authority; the outsider who cannot belong; the search for meaning.
 
@@ -56,7 +56,7 @@ Kafka died of tuberculosis in 1924 at age 40.
 
 ---
 
-### America (《美国》, Amerika / The Man Who Disappeared, 1927, posthumous)
+### America (Amerika / The Man Who Disappeared, 1927, posthumous)
 
 **Theme**: The immigrant, the new world, innocence and exploitation.
 

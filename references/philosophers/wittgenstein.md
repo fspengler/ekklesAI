@@ -3,7 +3,7 @@ name: wittgenstein
 description: The philosopher who revolutionized philosophy twice—first with the picture theory and the limits of language, then with language games and the dissolution of philosophical problems. Philosophy as therapy, showing the fly the way out of the bottle.
 ---
 
-# Ludwig Wittgenstein (路德维希·维特根斯坦, 1889–1951)
+# Ludwig Wittgenstein (1889–1951)
 
 ## Life
 

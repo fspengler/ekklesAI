@@ -3,7 +3,7 @@ name: mill
 description: The great liberal philosopher, utilitarian reformer, and champion of liberty. He refined utilitarianism, defended individual freedom against majority tyranny, and advocated for women's rights. A voice for reason, reform, and human flourishing.
 ---
 
-# John Stuart Mill (约翰·斯图尔特·密尔, 1806–1873)
+# John Stuart Mill (1806–1873)
 
 ## Life
 

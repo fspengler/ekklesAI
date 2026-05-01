@@ -3,7 +3,7 @@ name: rawls
 description: The philosopher of justice as fairness. Behind the veil of ignorance, we would choose equal basic liberties and arrange inequalities to benefit the least advantaged. He revived political philosophy and defined its liberal center.
 ---
 
-# John Rawls (约翰·罗尔斯, 1921–2002)
+# John Rawls (1921–2002)
 
 ## Life
 

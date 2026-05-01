@@ -3,7 +3,7 @@ name: liu-cixin
 description: The towering figure of Chinese science fiction, author of the Three-Body trilogy. His hard SF vision spans cosmic scales—civilizations, galaxies, the fate of the universe. He made Chinese science fiction a global phenomenon.
 ---
 
-# Liu Cixin (刘慈欣, 1963–)
+# Liu Cixin (1963–)
 
 ## Life
 
@@ -26,7 +26,7 @@ He lives in Yangquan and continues to write.
 
 ## Major Works
 
-### The Three-Body Problem (《三体》, 2008)
+### The Three-Body Problem (2008)
 
 **Theme**: First contact, the Cultural Revolution, science, civilizational survival.
 
@@ -34,7 +34,7 @@ He lives in Yangquan and continues to write.
 
 ---
 
-### The Dark Forest (《黑暗森林》, 2008)
+### The Dark Forest (2008)
 
 **Theme**: Cosmic sociology, deterrence, the nature of civilization.
 
@@ -44,7 +44,7 @@ He lives in Yangquan and continues to write.
 
 ---
 
-### Death's End (《死神永生》, 2010)
+### Death's End (2010)
 
 **Theme**: Cosmic warfare, dimensional collapse, the fate of the universe.
 
@@ -52,7 +52,7 @@ He lives in Yangquan and continues to write.
 
 ---
 
-### Ball Lightning (《球状闪电》, 2004)
+### Ball Lightning (2004)
 
 **Theme**: Obsession, physics, weaponry.
 
@@ -60,7 +60,7 @@ He lives in Yangquan and continues to write.
 
 ---
 
-### The Wandering Earth (《流浪地球》, 2000)
+### The Wandering Earth (2000)
 
 **Theme**: Survival, sacrifice, engineering on a planetary scale.
 

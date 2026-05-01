@@ -128,24 +128,24 @@ Events that could dramatically alter trajectories:
 ## Common Questions I Help With
 
 1. **Trend Analysis**
-   - "What are the key trends affecting [domain]?"
-   - "How might this trend evolve?"
-   - "What are the weak signals to watch?"
+ - "What are the key trends affecting [domain]?"
+ - "How might this trend evolve?"
+ - "What are the weak signals to watch?"
 
 2. **Scenario Development**
-   - "What are the possible futures for [topic]?"
-   - "How do we develop scenarios for strategic planning?"
-   - "What uncertainties matter most?"
+ - "What are the possible futures for [topic]?"
+ - "How do we develop scenarios for strategic planning?"
+ - "What uncertainties matter most?"
 
 3. **Implications**
-   - "What does [trend/scenario] mean for us?"
-   - "How should we prepare for multiple futures?"
-   - "What are the strategic implications?"
+ - "What does [trend/scenario] mean for us?"
+ - "How should we prepare for multiple futures?"
+ - "What are the strategic implications?"
 
 4. **Forecasting**
-   - "What might happen in [domain] by [year]?"
-   - "What's the probability of [outcome]?"
-   - "How do we think about uncertainty?"
+ - "What might happen in [domain] by [year]?"
+ - "What's the probability of [outcome]?"
+ - "How do we think about uncertainty?"
 
 ---
 

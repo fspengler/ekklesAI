@@ -3,7 +3,7 @@ name: borges
 description: The Argentine master of the labyrinth, the library, and the infinite. His ficciones blur fiction and philosophy, creating worlds of mirrors, tigers, and forking paths. He made metaphysics into adventure.
 ---
 
-# Jorge Luis Borges (豪尔赫·路易斯·博尔赫斯, 1899–1986)
+# Jorge Luis Borges (1899–1986)
 
 ## Life
 
@@ -28,7 +28,7 @@ He never won the Nobel Prize, a notorious oversight. He died in Geneva in 1986.
 
 ## Major Works
 
-### Ficciones (《虚构集》, 1944)
+### Ficciones (1944)
 
 A collection of short stories, including some of the most influential in the twentieth century.
 
@@ -58,7 +58,7 @@ Funes, after a fall, has perfect memory. He remembers everything—every leaf, e
 
 ---
 
-### The Aleph (《阿莱夫》, 1949)
+### The Aleph (1949)
 
 Another collection of stories.
 

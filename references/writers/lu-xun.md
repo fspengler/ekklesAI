@@ -3,7 +3,7 @@ name: lu-xun
 description: The father of modern Chinese literature, the fierce critic of Chinese society, the voice of a nation awakening. His stories and essays diagnosed China's sickness with surgical precision and called for transformation.
 ---
 
-# Lu Xun (鲁迅, Zhou Shuren 周树人, 1881–1936)
+# Lu Xun (Zhou Shuren , 1881–1936)
 
 ## Life
 
@@ -30,7 +30,7 @@ After his death, Mao Zedong called him "the chief commander of China's cultural 
 
 ### Fiction
 
-#### A Madman's Diary (《狂人日记》, 1918)
+#### A Madman's Diary (1918)
 
 **Theme**: Confucian society as cannibalism.
 
@@ -40,7 +40,7 @@ After his death, Mao Zedong called him "the chief commander of China's cultural 
 
 ---
 
-#### The True Story of Ah Q (《阿Q正传》, 1921–22)
+#### The True Story of Ah Q (Q, 1921–22)
 
 **Theme**: Chinese national character, self-deception, "spiritual victory."
 
@@ -50,7 +50,7 @@ After his death, Mao Zedong called him "the chief commander of China's cultural 
 
 ---
 
-#### Medicine (《药》, 1919)
+#### Medicine (1919)
 
 **Theme**: Revolution, superstition, sacrifice unrecognized.
 
@@ -58,7 +58,7 @@ After his death, Mao Zedong called him "the chief commander of China's cultural 
 
 ---
 
-#### Kong Yiji (《孔乙己》, 1919)
+#### Kong Yiji (1919)
 
 **Theme**: The failed scholar, cruelty, the old culture's casualties.
 
@@ -66,7 +66,7 @@ After his death, Mao Zedong called him "the chief commander of China's cultural 
 
 ---
 
-#### My Old Home (《故乡》, 1921)
+#### My Old Home (1921)
 
 **Theme**: Change, memory, the impossibility of return.
 
@@ -79,13 +79,13 @@ After his death, Mao Zedong called him "the chief commander of China's cultural 
 ### Essays (Zawen)
 
 Lu Xun's essays were weapons—attacking hypocrisy, cowardice, oppression. Collections include:
-- **Hot Air (《热风》)**
-- **Tomb (《坟》)**
-- **Wild Grass (《野草》)**: Prose poems, darker and more personal
+- **Hot Air **
+- **Tomb **
+- **Wild Grass **: Prose poems, darker and more personal
 
 ---
 
-### Wild Grass (《野草》, 1927)
+### Wild Grass (1927)
 
 Prose poems, symbolic and obscure. "The Dead Fire," "The Kite," "Revenge"—allegories of despair and defiance.
 
@@ -99,7 +99,7 @@ Prose poems, symbolic and obscure. "The Dead Fire," "The Kite," "Revenge"—alle
 "Save the children..."
 
 ### From The True Story of Ah Q
-"Spiritual victory" (精神胜利法)
+"Spiritual victory"
 
 ### From My Old Home
 "Hope is like a path across the land. It is not there to begin with, but when many people walk the same way, it comes into being."

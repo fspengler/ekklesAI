@@ -1,144 +1,168 @@
-# EkklesAI 示例对话 / Example Conversations
+# EkklesAI Example Conversations
 
-本文档展示 EkklesAI 在通用讨论模式下的实际对话示例。
+This document shows EkklesAI in action across its two modes.
 
 ---
 
 ## Example 1: General Discussion Mode
 
-**User**: 召唤EkklesAI讨论：在AI时代，"批判性思维"这个概念是否需要重新定义？
+**User**: Summon EkklesAI to discuss: In the age of AI, does "critical thinking" need to be redefined?
 
 ---
 
 ### Diverger
 
-这个问题表面上是关于教育概念的更新，但我看到至少五个可能的展开方向：
+This question looks like it's about updating an educational concept, but I see at least five directions worth pulling apart:
 
-**横向延展**：除了批判性思维，还有哪些核心教育概念在AI时代需要重审？创造力、专注力、记忆力——它们是否面临同样的挑战？
+**Lateral expansion**: Beyond critical thinking, which other core educational concepts need rethinking in the AI age? Creativity, sustained attention, memory—do they face the same pressure?
 
-**纵向深挖**：批判性思维的"批判"到底指什么？是质疑信息来源、检验逻辑有效性、识别偏见，还是更根本的——对给定问题本身的反思？当AI可以完成前几项时，最后一项是否才是人类独有的？
+**Vertical depth**: What does the "critical" in critical thinking actually mean? Questioning sources, checking logical validity, identifying bias—or something more fundamental: questioning the problem itself? When AI handles the first three, is the last one the distinctly human remainder?
 
-**跨域类比**：计算器出现后，我们并没有放弃"数学思维"这个概念，而是重新定义了它的核心（从计算能力转向数学直觉和问题建模）。批判性思维可能正在经历类似的转型。
+**Cross-domain analogy**: When the calculator arrived, we didn't abandon "mathematical thinking"—we redefined its core, shifting from computation to mathematical intuition and problem modeling. Critical thinking may be undergoing the same transformation.
 
-**逆向思考**：如果我们不重新定义批判性思维，而是完全放弃这个概念，用别的东西替代呢？也许我们需要的不是"批判性思维2.0"，而是一个全新的认知框架——比如"协作性判断"或"元认知审计"？
+**Contrary direction**: What if instead of redefining critical thinking, we abandoned the concept entirely and replaced it with something else? Maybe we don't need "Critical Thinking 2.0" but a wholly new cognitive framework—"collaborative judgment" or "metacognitive auditing."
 
-**价值前提**：这个问题预设了"批判性思维是好东西，应该保留"。但批判性思维在某些文化语境中可能被视为破坏性的、西方中心的。AI时代是否为非西方认知传统提供了重新出场的机会？
+**Value premise**: The question presupposes that critical thinking is good and worth preserving. But is it? And whose version?
 
-**我的倾向**：我认为第二个方向——纵向深挖批判性思维的核心构成——最值得优先探索。因为只有澄清这个概念的分层结构，我们才能判断AI替代了哪些层、哪些层需要重新强调。
+**My inclination**: I think the second direction—vertically decomposing the concept to identify which layers AI replaces and which need reinforcing—is most worth pursuing first. Without clarifying the structure, we can't evaluate what's actually at stake.
 
 ---
 
 ### Literature Reviewer
 
-关于批判性思维的学术定义，存在几个重要的理论框架：
+Several important theoretical frameworks bear on the academic definition of critical thinking:
 
-**恩尼斯（Ennis）的定义**：批判性思维是"合理的反思性思维，聚焦于决定相信什么或做什么"。这个定义强调两个维度：反思性（对自己的思维过程进行思考）和决策导向（导向行动）。
+**Ennis's definition**: Critical thinking is "reasonable, reflective thinking focused on deciding what to believe or do." Two dimensions: reflective (thinking about one's own thinking) and decision-oriented (leading to action).
 
-**保罗（Paul）的强弱批判性思维区分**：弱批判性思维只用于反驳对手，强批判性思维还用于审视自己的假设。在AI时代，这个区分可能更加重要——弱版本可被AI辅助，强版本需要人类自我意识。
+**Paul's strong/weak distinction**: Weak critical thinking is used only to refute opponents; strong critical thinking also scrutinizes one's own assumptions. In the AI age, this distinction sharpens—the weak version can be AI-assisted, the strong version requires human self-awareness.
 
-**已有的AI相关研究**：有教育学者（如Luckin, 2018）开始讨论"AI素养"与批判性思维的关系，但这些讨论多聚焦于"如何批判性地使用AI"，而非"AI如何改变批判性思维本身"。
+**Existing AI-adjacent research**: Educators (e.g., Luckin, 2018) have begun discussing "AI literacy" and its relationship to critical thinking, but most focus on "how to critically use AI" rather than "how AI changes critical thinking itself."
 
-值得注意的是，批判性思维作为教育目标主要是20世纪后半叶的产物，与工业化信息社会的需求相关。这一历史语境支持发散者关于"概念可能需要根本性重构"的直觉。
+Worth noting: critical thinking as an educational goal is largely a post-WWII development, tied to the demands of industrial information society. This historical context supports the Diverger's intuition that the concept may need fundamental reconstruction rather than updating.
 
 ---
 
 ### Logician
 
-让我澄清这个讨论中涉及的几个概念层次：
+Let me clarify the conceptual layers at play:
 
-**问题的逻辑结构**：
-- 前提1：批判性思维是一个有明确内涵的概念
-- 前提2：AI时代带来了某些变化
-- 前提3：这些变化与批判性思维的内涵相关
-- 结论：因此批判性思维的定义需要更新
+**The logical structure of the question**:
+- Premise 1: Critical thinking is a concept with determinate content
+- Premise 2: The AI age has introduced certain changes
+- Premise 3: These changes are relevant to the content of critical thinking
+- Conclusion: Therefore, critical thinking's definition needs updating
 
-**每个前提的可疑之处**：
-- 前提1可疑：如文献评审员所示，批判性思维本身就有多重定义
-- 前提2需要具体化：到底是哪些变化？信息获取？推理外包？
-- 前提3是关键争议点：这些变化真的触及批判性思维的核心吗？
+**Where each premise is questionable**:
+- Premise 1 is suspect: as the Literature Reviewer shows, critical thinking already has multiple competing definitions
+- Premise 2 needs specificity: which changes exactly? Information access? Reasoning outsourced?
+- Premise 3 is the core dispute: do these changes actually reach critical thinking's core, or only its surface applications?
 
-**一个有用的区分**：
-- "执行层"：具体的思维操作（如识别论证结构）——这些可被AI辅助
-- "元层"：选择何时用何种思维方式——这可能是AI难以替代的
-- "价值层"：决定什么值得思考——这是人类独有的
+**A useful tripartite distinction**:
+- *Execution layer*: specific thinking operations (e.g., identifying argument structure) — these can be AI-assisted
+- *Meta layer*: deciding when to use which mode of thinking — likely harder for AI to replace
+- *Value layer*: deciding what is worth thinking about at all — distinctly human
 
-如果接受这个三层区分，"重新定义"的实质可能是将重心从执行层转移到元层和价值层。
+If this three-layer framework holds, "redefinition" means shifting emphasis from the execution layer to the meta and value layers.
 
 ---
 
 ### Yes And
 
-延续逻辑学家的三层框架，我想提出一个"AI时代批判性思维光谱"：
+Building on the Logician's framework, I want to propose an "AI-era critical thinking spectrum":
 
-**可协作层**（与AI共同完成）：
-- 信息验证（AI可以更快地交叉核验）
-- 论证结构分析（AI可以可视化复杂论证）
-- 偏见检测（AI可以标记某些类型的偏见）
+**Collaborative layer** (accomplished jointly with AI):
+- Source verification (AI can cross-check faster)
+- Argument structure analysis (AI can visualize complex reasoning)
+- Bias detection (AI can flag certain bias types)
 
-**需增强层**（AI存在迫使人类更需要这些）：
-- 元认知审计：我为什么要相信这个AI的输出？
-- 问题重构：AI回答的真的是我该问的问题吗？
-- 价值判断：即使分析正确，这个结论是否与我的价值观相容？
+**Reinforced layer** (AI's presence makes these more necessary, not less):
+- Metacognitive auditing: Why should I trust this AI's output?
+- Problem reframing: Is the AI answering the question I should be asking?
+- Value judgment: Even if the analysis is correct, is this conclusion compatible with my values?
 
-**全新层**（AI时代之前不存在或不重要）：
-- 协作判断：如何与AI构成有效的认知团队
-- 不确定性容忍：接受很多问题没有确定答案
-- 溯源能力：追踪某个认知结果的形成路径
+**Emergent layer** (nonexistent or unimportant before the AI era):
+- Collaborative judgment: How do I form an effective cognitive partnership with AI?
+- Uncertainty tolerance: Accepting that many questions have no determinate answer
+- Provenance tracking: Tracing how a cognitive result was formed
 
-这个框架可以整合发散者的"纵向深挖"方向和逻辑学家的层次区分。
+This integrates the Diverger's vertical decomposition with the Logician's layer distinction.
 
 ---
 
 ### Challenger
 
-几个根本性的质疑：
+Several foundational challenges:
 
-**1. "AI时代"真的开始了吗？**
-我们讨论的前提是AI带来了重大变化，但变化的程度和性质还不清楚。搜索引擎出现时也有类似的讨论，但批判性思维的定义并未因此改变。为什么这次不同？如果无法明确说明这次变化的独特性，整个讨论就建立在不稳固的基础上。
+**1. Has the "AI age" actually arrived?**
+Our discussion presupposes that AI has brought significant changes, but the nature and extent of those changes remain unclear. Similar conversations happened when search engines appeared, yet critical thinking's definition didn't change then. What makes this time different? Without a clear account of this change's distinctiveness, the entire discussion rests on unstable ground.
 
-**2. "重新定义"有什么实际意义？**
-即使我们达成了关于批判性思维新定义的共识，这个定义如何影响教育实践？学术概念的重新定义往往与实际教学脱节。这个讨论的实践意义在哪里？
+**2. What is the practical consequence of "redefinition"?**
+Even if we reached consensus on a new definition, how would that definition change educational practice? Academic concept revision routinely fails to connect to actual teaching. What is the practical significance of this discussion?
 
-**3. Yes And的"全新层"真的是新的吗？**
-"不确定性容忍"和"溯源能力"在科学方法论中早已存在。它们可能在AI时代变得更重要，但这不意味着它们是新概念。我们可能只是在重新发现已有的智慧。
+**3. Is Yes And's "emergent layer" actually new?**
+"Uncertainty tolerance" and "provenance tracking" have long existed in scientific methodology. They may be more important in the AI age, but that doesn't make them new concepts. We may simply be rediscovering existing wisdom under a new label.
 
-**4. 最根本的问题**：
-这个讨论本身是否已经过时？当AI可以帮助我们"批判性地思考"时，也许我们需要问的不是"如何重新定义批判性思维"，而是"批判性思维作为一个教育目标是否还有意义"？
+**4. The most fundamental question**:
+Is this discussion already obsolete? When AI can help us "think critically," perhaps the question isn't "how do we redefine critical thinking" but "does critical thinking as an educational goal still have meaning?"
 
-我的替代方向：与其关注"定义"，不如关注"能力"——在AI时代，人类需要培养哪些具体的认知能力，才能与AI形成有效的协作？这是一个更实用的问题框架。
+**My alternative framing**: Instead of focusing on "definition," focus on "capabilities"—what specific cognitive capacities does a human need to develop in the AI age to form effective partnerships with AI? This is a more tractable question.
 
 ---
 
 ### Synthesizer
 
-#### 核心主张
+#### Core Claims
 
-| 发言者 | 核心主张 |
-|--------|---------|
-| 发散者 | 批判性思维需要纵向分解，识别AI替代的层次和人类需保留的层次 |
-| 文献评审员 | 批判性思维本身定义多元，且与特定历史语境相关 |
-| 逻辑学家 | 可区分执行层、元层、价值层，重心应转移到后两者 |
-| Yes And | 提出三类能力：可协作、需增强、全新 |
-| 挑战者 | 质疑前提的稳固性，建议从"定义"转向"能力" |
+| Agent | Core Claim |
+|-------|-----------|
+| Diverger | Critical thinking needs vertical decomposition to identify which layers AI replaces and which humans need to reinforce |
+| Literature Reviewer | Critical thinking is multiply defined and historically situated |
+| Logician | Execution / meta / value layer distinction; emphasis should shift toward the latter two |
+| Yes And | Three-tier framework: collaborative, reinforced, emergent capabilities |
+| Challenger | Questions the stability of premises; proposes shifting from "definition" to "capabilities" |
 
-#### 共识
+#### Consensus
 
-1. **层次区分有效**：执行层/元层/价值层的区分获得广泛认可，可作为后续分析的框架
-2. **需要具体化**：抽象讨论"重新定义"意义有限，需转向具体能力和实践
-3. **历史意识**：批判性思维是历史性概念，其形态随社会技术条件变化
+1. **The layer distinction is useful**: The execution/meta/value tripartition has broad acceptance and can anchor further analysis
+2. **Concreteness is needed**: Abstract debate about "redefinition" is limited; we need to move toward specific capabilities and practices
+3. **Historical awareness**: Critical thinking is a historically contingent concept whose shape tracks social-technical conditions
 
-#### 分歧
+#### Disagreements
 
-1. **变化的激进程度**：发散者和Yes And倾向于认为AI带来根本性变化；挑战者对此持怀疑态度
-2. **问题框架**：是"重新定义概念"还是"识别具体能力"？这是方法论层面的分歧
-3. **实践意义**：本讨论对教育实践的影响尚不明确
+1. **Degree of change**: Diverger and Yes And treat AI as a fundamental shift; Challenger is skeptical
+2. **Framing of the question**: "Redefine the concept" vs. "identify specific capabilities"—a methodological disagreement
+3. **Practical implications**: How this discussion connects to educational practice remains unclear
 
-#### 下一步
+#### Next Steps
 
-1. **经验性问题**：AI时代的认知变化有哪些具体证据？可能需要引入认知科学、教育学的实证研究。
-2. **实践导向**：选取一个具体教育场景（如高中写作教学），分析批判性思维在该场景中的具体表现和AI的影响。
-3. **概念史追溯**：批判性思维概念的形成史可能为其在AI时代的演变提供线索。
+1. **Empirical grounding**: What is the evidence for AI-era cognitive changes? Cognitive science and educational research may be needed.
+2. **Concrete scenario**: Take a specific educational setting (e.g., high school writing instruction) and analyze how critical thinking manifests there and what AI changes about it.
+3. **Conceptual genealogy**: The history of how "critical thinking" was constructed may provide clues about how it evolves.
 
-建议下一轮聚焦于第2点——通过具体场景分析，将抽象讨论接地。
+Recommended focus for next round: the second point—grounding abstract discussion in a concrete scenario.
 
 ---
+
+## Example 2: Strategy Ideation Mode
+
+**User**: We need a strategy to enter the Southeast Asian market.
+
+---
+
+*[Gatekeeper activates — declares Business sub-mode, confirms agent roster, presents Gate 0]*
+
+**Gatekeeper**: Sub-mode detected: **Business Strategy**. Before Stage 1 begins, confirm the roster and scope.
+
+**Stage 1 agents**: Diverger, Landscape Analyst, PESTEL Analyst, Competitive Cartographer, Stakeholder Mapper, Resource Auditor, Porter
+
+Proceed to Stage 1 (Context & Landscape)?
+
+---
+
+*[User confirms → Stage 1 runs → Gatekeeper presents Gate 1 with situation map for user confirmation]*
+
+*[User confirms situation map → Stage 2 runs → Gatekeeper presents Gate 2 with strategic options]*
+
+*[User selects options → Stage 3 runs → Gatekeeper presents Gate 3 for direction commitment]*
+
+*[User commits → Stage 4 runs → Synthesizer produces Strategic Brief]*

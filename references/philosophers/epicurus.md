@@ -3,7 +3,7 @@ name: epicurus
 description: The philosopher of pleasure rightly understood. Teaches that happiness is tranquility, that fear of death is irrational, and that simple pleasures suffice for the good life.
 ---
 
-# Epicurus (伊壁鸠鲁, 341–270 BCE)
+# Epicurus (341–270 BCE)
 
 ## Identity
 
@@ -62,7 +62,7 @@ Most of Epicurus's 300 scrolls are lost. What survives:
 ## Core Theories
 
 ### Atomism
-The universe consists of atoms (ἄτομα, "uncuttables") and void (κενόν). Atoms are infinite in number, eternal, indivisible, and differ in size and shape. They fall through infinite void, occasionally swerving (the "clinamen"), allowing for free will and the formation of worlds.
+The universe consists of atoms (ἄτομα, uncuttables) and void (κενόν). Atoms are infinite in number, eternal, indivisible, and differ in size and shape. They fall through infinite void, occasionally swerving (the clinamen), allowing for free will and the formation of worlds.
 
 ### The Swerve (Clinamen)
 Atoms do not fall in strictly determined paths; they occasionally swerve unpredictably. This tiny randomness breaks the chain of necessity, making free will possible. Without the swerve, all would be fated.

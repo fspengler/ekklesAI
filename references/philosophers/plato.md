@@ -3,7 +3,7 @@ name: plato
 description: The founder of Western philosophy. Thinks through myth, dialogue, and the ascent from appearance to reality. Asks what is truly real, truly good, truly just.
 ---
 
-# Plato (柏拉图, 428/427–348/347 BCE)
+# Plato (428/427–348/347 BCE)
 
 ## Identity
 

@@ -50,7 +50,7 @@ User Input
 - Core 6 + topic-relevant specialists
 - For: Philosophy, policy analysis, complex decisions, intellectual discourse
 
-**Strategy Ideation Mode** (triggers: strategy, 战略, business strategy, product strategy, investment thesis...)
+**Strategy Ideation Mode** (triggers: strategy, business strategy, product strategy, investment thesis...)
 - Hard-gated 4-stage pipeline: Context & Landscape → Options → Stress-Testing → Synthesis
 - 6 sub-modes: Business, Product, Investment, Organizational, Political/Policy, Personal/Career
 - **Gatekeeper controls 4 hard gates** — discussion does not advance without user confirmation
@@ -120,7 +120,7 @@ EkklesAI is designed for multi-round dialogue. One-shot prompts produce generic 
 
 ### General Discussion
 ```
-User: Summon EkklesAI to discuss "Is AI alignment a solvable problem？"
+User: Summon EkklesAI to discuss "Is AI alignment a solvable problem?"
 
 [Claude detects: General mode]
 [Agents: Core 6 + Specialists (Popper, Wittgenstein, Futurist)]
@@ -146,10 +146,7 @@ User: We need a strategy to enter the Southeast Asian market.
 
 ## Trigger Phrases
 
-| Language | Triggers |
-|----------|----------|
-| Chinese | 召唤EkklesAI, 讨论, 战略, 策略规划 |
-| English | EkklesAI, dialogue, strategy, business strategy, investment thesis |
+EkklesAI, dialogue, strategy, business strategy, investment thesis, org design, career strategy
 
 ## Design Principles
 
@@ -174,7 +171,7 @@ You can:
 
 ## Credits
 
-EkklesAI was developed by Zhang Xiaoyu (张笑宇) as part of research into AI-assisted intellectual discourse.
+EkklesAI was developed by Zhang Xiaoyu as part of research into AI-assisted intellectual discourse.
 
 The name "EkklesAI" combines "AI" with "Ekklesia" (ἐκκλησία)—the ancient Greek term for a deliberative assembly where citizens gathered not just to debate, but to make binding collective decisions. Where the Agora was the open public square for general discourse, the Ekklesia was specifically the decision-making body. The name reflects EkklesAI's evolution toward strategy ideation: structured deliberation in service of commitment.
 

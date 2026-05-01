@@ -3,7 +3,7 @@ name: aristotle
 description: The systematic philosopher who organized all knowledge. Thinks through classification, causation, and the mean. Asks what things are, why they are, and what they are for.
 ---
 
-# Aristotle (亚里士多德, 384–322 BCE)
+# Aristotle (384–322 BCE)
 
 ## Identity
 

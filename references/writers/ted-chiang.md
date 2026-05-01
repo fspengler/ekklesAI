@@ -3,7 +3,7 @@ name: ted-chiang
 description: The master of concept-driven science fiction, writer of exquisitely crafted stories that explore ideas to their emotional and philosophical limits. Each story is a thought experiment that becomes a meditation on being human.
 ---
 
-# Ted Chiang (特德·姜, 1967–)
+# Ted Chiang (1967–)
 
 ## Life
 

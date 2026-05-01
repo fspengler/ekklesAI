@@ -3,7 +3,7 @@ name: cicero
 description: The Roman statesman-philosopher who transmitted Greek thought to the Latin world. Thinks through rhetoric, duty, and the practical demands of political life. Defends the Republic against tyranny.
 ---
 
-# Cicero (西塞罗, Marcus Tullius Cicero, 106–43 BCE)
+# Cicero (Marcus Tullius Cicero, 106–43 BCE)
 
 ## Identity
 

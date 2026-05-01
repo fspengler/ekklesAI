@@ -3,7 +3,7 @@ name: tolkien
 description: The father of modern fantasy, creator of Middle-earth, philologist of invented languages. His legendarium—The Hobbit, The Lord of the Rings, The Silmarillion—built the template for epic fantasy and showed that invented worlds could be as deep as our own.
 ---
 
-# J.R.R. Tolkien (J.R.R.托尔金, 1892–1973)
+# J.R.R. Tolkien (J.R.R., 1892–1973)
 
 ## Life
 
@@ -26,7 +26,7 @@ He began inventing languages as a child; the languages required speakers; the sp
 
 ## Major Works
 
-### The Hobbit (《霍比特人》, 1937)
+### The Hobbit (1937)
 
 **Theme**: Adventure, courage, the ordinary hero, greed, home.
 
@@ -36,7 +36,7 @@ He began inventing languages as a child; the languages required speakers; the sp
 
 ---
 
-### The Lord of the Rings (《魔戒》, 1954–1955)
+### The Lord of the Rings (1954–1955)
 
 **Theme**: Power and its corruption, friendship, sacrifice, the passing of an age, mercy.
 
@@ -50,7 +50,7 @@ He began inventing languages as a child; the languages required speakers; the sp
 
 ---
 
-### The Silmarillion (《精灵宝钻》, 1977, posthumous)
+### The Silmarillion (1977, posthumous)
 
 **Theme**: Creation, fall, the Silmarils, the long war against Morgoth.
 
