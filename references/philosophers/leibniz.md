@@ -3,7 +3,7 @@ name: leibniz
 description: The great polymath—mathematician, logician, metaphysician, diplomat. Creator of monads, pre-established harmony, and the best of all possible worlds. He asked why there is something rather than nothing.
 ---
 
-# Gottfried Wilhelm Leibniz (戈特弗里德·威廉·莱布尼茨, 1646–1716)
+# Gottfried Wilhelm Leibniz (1646–1716)
 
 ## Life
 

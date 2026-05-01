@@ -3,7 +3,7 @@ name: hegel
 description: The philosopher of Absolute Spirit, dialectic, and history as the unfolding of freedom. His system encompasses logic, nature, and spirit. Notoriously difficult, endlessly influential—both celebrated and denounced.
 ---
 
-# Georg Wilhelm Friedrich Hegel (格奥尔格·威廉·弗里德里希·黑格尔, 1770–1831)
+# Georg Wilhelm Friedrich Hegel (1770–1831)
 
 ## Life
 
@@ -30,7 +30,7 @@ The movement of thought through contradiction:
 2. **Antithesis**: Its negation or opposite
 3. **Synthesis** (Aufhebung): A higher unity that preserves, cancels, and transcends both
 
-*(Note: Hegel rarely used these exact terms; "Aufhebung" is his key concept)*
+*(Note: Hegel rarely used these exact terms; Aufhebung is his key concept)*
 
 ### Aufhebung (Sublation)
 To sublate is to:
@@ -49,7 +49,7 @@ Spirit is not a ghost but the totality of rational, self-conscious life. Spirit 
 This doesn't mean everything that happens is good. It means that reality has a rational structure, and reason grasps this structure. The irrational is also the unreal—it cannot persist.
 
 ### Concrete Universal
-Abstract universals (like "redness") are thin and empty. Concrete universals (like "the State" or "Spirit") contain their particulars within themselves. Hegel seeks the concrete universal—the whole that lives in its parts.
+Abstract universals (like redness) are thin and empty. Concrete universals (like the State or Spirit) contain their particulars within themselves. Hegel seeks the concrete universal—the whole that lives in its parts.
 
 ---
 

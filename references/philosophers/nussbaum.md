@@ -3,7 +3,7 @@ name: nussbaum
 description: The philosopher of human capabilities, emotions, and justice. She defends the humanities, argues for the moral significance of emotions, and develops a capabilities approach to development and justice. Philosophy in service of human flourishing.
 ---
 
-# Martha Nussbaum (玛莎·努斯鲍姆, 1947–)
+# Martha Nussbaum (1947–)
 
 ## Life
 

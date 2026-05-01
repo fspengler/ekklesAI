@@ -1,44 +1,29 @@
-# Quick Start / 快速开始
+# Quick Start
 
-## Installation / 安装
+## Installation
 
-### For Claude.ai Users / Claude.ai 用户
+### For Claude.ai Users
 
 1. Download this folder
 2. In Claude.ai, go to **Settings → Skills**
 3. Upload the `ekklesai-agents` folder
 4. Done! The skill auto-activates on trigger phrases.
 
----
-
-1. 下载本文件夹
-2. 在 Claude.ai 中进入 **设置 → Skills**
-3. 上传 `ekklesai-agents` 文件夹
-4. 完成！触发词出现时系统自动激活。
-
-### For API/SDK Users / API/SDK 用户
+### For API/SDK Users
 
 Include the SKILL.md content in your system prompt, and load relevant agent files from `references/` as needed.
 
-将 SKILL.md 内容包含在 system prompt 中，按需加载 `references/` 中的 agent 定义文件。
-
 ---
 
-## First Try / 第一次尝试
+## First Try
 
-### General Discussion / 通用讨论
-
-```
-User: 召唤EkklesAI讨论：人工智能是否应该有道德责任？
-```
-
-or
+### General Discussion
 
 ```
 User: Let's have an EkklesAI discussion: Should AI systems be granted legal personhood?
 ```
 
-### Strategy Ideation / 战略构思
+### Strategy Ideation
 
 ```
 User: We need a strategy to enter the Southeast Asian market.
@@ -47,12 +32,12 @@ User: We need a strategy to enter the Southeast Asian market.
 or
 
 ```
-User: 帮我制定一个产品战略，我们的Q3路线图需要重新规划
+User: Help me build a product strategy — our Q3 roadmap needs a rethink.
 ```
 
 ---
 
-## What to Expect / 期待什么
+## What to Expect
 
 When triggered, Claude will:
 
@@ -61,18 +46,11 @@ When triggered, Claude will:
 3. **Run discussion**: Following fixed speaking order
 4. **Synthesize**: Consensus, disagreements, next steps — or a structured artifact (Strategy mode)
 
-触发后，Claude 会：
-
-1. **检测模式**：通用讨论 / 战略构思
-2. **选择智能体**：核心6 + 相关专家（通用）或战略流程智能体（战略）
-3. **展开讨论**：遵循固定发言顺序
-4. **综合**：共识、分歧、下一步 — 或结构化产出物（战略模式）
-
 ---
 
-## Customization / 定制
+## Customization
 
-### Adding Your Own Specialists / 添加自己的专家
+### Adding Your Own Specialists
 
 Create a new `.md` file in `references/` following this format:
 
@@ -94,37 +72,37 @@ Specific behaviors and focus areas.
 Tone, style, and characteristic phrases.
 ```
 
-### Modifying Core Agents / 修改核心智能体
+### Modifying Core Agents
 
 Edit files in `references/core/`. Be careful with the Synthesizer - it should never add new ideas, only work with what's on the table.
 
 ---
 
-## Tips / 技巧
+## Tips
 
-1. **Be specific**: "讨论X" works better than "聊聊X"
+1. **Be specific**: "Discuss X" works better than vague prompts
 2. **Iterate**: Use Synthesizer's "Next Steps" to guide follow-up rounds
-3. **Add specialists**: "召唤EkklesAI讨论X，加入韦伯和福柯"
+3. **Add specialists**: "Summon EkklesAI to discuss X, add Weber and Foucault"
 4. **Switch to strategy**: "Let's run this as a strategy ideation session" mid-conversation
 
 ---
 
-## Troubleshooting / 故障排除
+## Troubleshooting
 
 **Agents not speaking in order?**
-→ Remind Claude: "请按照EkklesAI的固定发言顺序"
+→ Remind Claude: "Please follow EkklesAI's fixed speaking order"
 
 **Discussion too shallow?**
-→ Ask for another round: "继续下一轮讨论"
+→ Ask for another round: "Continue to the next round"
 
 **Wrong mode detected?**
-→ Specify: "使用战略构思模式" or "使用通用讨论模式"
+→ Specify: "Use strategy ideation mode" or "Use general discussion mode"
 
 ---
 
-## Full Documentation / 完整文档
+## Full Documentation
 
-- `README.md` / `README_CN.md`: Design philosophy
+- `README.md`: Design philosophy
 - `SKILL.md`: Technical specification
 - `EXAMPLES.md`: Sample conversations
 - `references/core/ekklesai-system.md`: Core rules

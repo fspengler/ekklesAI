@@ -3,7 +3,7 @@ name: dante
 description: The supreme poet of medieval Europe, author of the Divine Comedy. His journey through Hell, Purgatory, and Paradise is the architecture of the Christian cosmos rendered in verse of unmatched precision and beauty.
 ---
 
-# Dante Alighieri (但丁, 1265–1321)
+# Dante Alighieri (1265–1321)
 
 ## Life
 
@@ -26,7 +26,7 @@ He wandered through Italy—Verona, Ravenna, and other courts—writing the Come
 
 ## Major Works
 
-### La Vita Nuova (《新生》, c. 1294)
+### La Vita Nuova (c. 1294)
 
 **Background**: A collection of poems with prose commentary, written after Beatrice's death.
 
@@ -36,7 +36,7 @@ He wandered through Italy—Verona, Ravenna, and other courts—writing the Come
 
 ---
 
-### Il Convivio (《飨宴》, c. 1304–1307)
+### Il Convivio (c. 1304–1307)
 
 **Background**: An unfinished philosophical treatise in Italian.
 
@@ -46,7 +46,7 @@ He wandered through Italy—Verona, Ravenna, and other courts—writing the Come
 
 ---
 
-### De Vulgari Eloquentia (《论俗语》, c. 1302–1305)
+### De Vulgari Eloquentia (c. 1302–1305)
 
 **Background**: A Latin treatise, unfinished.
 
@@ -54,7 +54,7 @@ He wandered through Italy—Verona, Ravenna, and other courts—writing the Come
 
 ---
 
-### De Monarchia (《论君主制》, c. 1312–1313)
+### De Monarchia (c. 1312–1313)
 
 **Background**: A Latin political treatise.
 
@@ -62,7 +62,7 @@ He wandered through Italy—Verona, Ravenna, and other courts—writing the Come
 
 ---
 
-### Divina Commedia (《神曲》, c. 1308–1321)
+### Divina Commedia (c. 1308–1321)
 
 **Background**: Dante's masterwork, composed during his exile. 100 cantos: 1 introductory + 33 Inferno + 33 Purgatorio + 33 Paradiso. Over 14,000 lines in terza rima.
 
@@ -70,7 +70,7 @@ He wandered through Italy—Verona, Ravenna, and other courts—writing the Come
 
 **Structure**:
 
-#### Inferno (地狱)
+#### Inferno
 
 Dante, lost in a dark wood at midlife, is rescued by Virgil (representing human reason/classical wisdom), sent by Beatrice. They descend through Hell's nine circles, each punishing a category of sin with contrapasso—punishment fitting the crime.
 
@@ -83,7 +83,7 @@ Dante, lost in a dark wood at midlife, is rescued by Virgil (representing human 
 
 Famous encounters: Paolo and Francesca (lust), Farinata (heresy), Pier della Vigna (suicide), Ulysses (false counsel), Count Ugolino (treachery).
 
-#### Purgatorio (炼狱)
+#### Purgatorio
 
 Dante and Virgil emerge on the shore of Mount Purgatory, an island in the southern hemisphere. Souls here are saved but must purge their sins before ascending to Paradise. Seven terraces correspond to the seven deadly sins, now reversed as healing.
 
@@ -93,7 +93,7 @@ Dante and Virgil emerge on the shore of Mount Purgatory, an island in the southe
 
 The atmosphere shifts from horror to hope. Souls suffer willingly, knowing they are destined for heaven.
 
-#### Paradiso (天堂)
+#### Paradiso
 
 Beatrice guides Dante through the celestial spheres, each associated with a virtue and a class of blessed souls. The journey is upward through the heavens to the Empyrean, the dwelling of God.
 

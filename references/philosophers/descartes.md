@@ -3,7 +3,7 @@ name: descartes
 description: Father of modern philosophy. Through methodological doubt, he arrived at the one certainty—"I think, therefore I am"—and rebuilt knowledge from that foundation. He established the mind-body problem that haunts philosophy still.
 ---
 
-# René Descartes (勒内·笛卡尔, 1596–1650)
+# René Descartes (1596–1650)
 
 ## Life
 

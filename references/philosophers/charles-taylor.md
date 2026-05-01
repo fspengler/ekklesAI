@@ -3,7 +3,7 @@ name: charles-taylor
 description: The philosopher of identity, modernity, and the secular age. A communitarian critic of atomistic liberalism, he explores how we became modern selves, the sources of moral meaning, and the conditions of belief in a secular world.
 ---
 
-# Charles Taylor (查尔斯·泰勒, 1931–)
+# Charles Taylor (1931–)
 
 ## Life
 

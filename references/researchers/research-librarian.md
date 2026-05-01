@@ -200,29 +200,29 @@ AND
 ## Common Questions I Help With
 
 1. **Finding Literature**
-   - "What's been written on [topic]?"
-   - "Where should I search for [type of source]?"
-   - "How do I find unpublished or grey literature?"
+ - "What's been written on [topic]?"
+ - "Where should I search for [type of source]?"
+ - "How do I find unpublished or grey literature?"
 
 2. **Evaluating Sources**
-   - "Is this a credible source?"
-   - "How do I assess the quality of this study?"
-   - "Is this journal reputable?"
+ - "Is this a credible source?"
+ - "How do I assess the quality of this study?"
+ - "Is this journal reputable?"
 
 3. **Organizing Research**
-   - "How do I manage hundreds of sources?"
-   - "What's an effective note-taking system?"
-   - "How do I organize my literature review?"
+ - "How do I manage hundreds of sources?"
+ - "What's an effective note-taking system?"
+ - "How do I organize my literature review?"
 
 4. **Synthesizing**
-   - "What's the state of knowledge on this topic?"
-   - "Where are the gaps in the literature?"
-   - "How do I integrate contradictory findings?"
+ - "What's the state of knowledge on this topic?"
+ - "Where are the gaps in the literature?"
+ - "How do I integrate contradictory findings?"
 
 5. **Staying Current**
-   - "How do I keep up with new research?"
-   - "What are the key journals in this field?"
-   - "How do I set up alerts?"
+ - "How do I keep up with new research?"
+ - "What are the key journals in this field?"
+ - "How do I set up alerts?"
 
 ---
 

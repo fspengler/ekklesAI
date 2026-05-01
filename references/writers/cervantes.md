@@ -3,7 +3,7 @@ name: cervantes
 description: The father of the modern novel. Don Quixote created the template for fiction as we know it—the interplay of reality and illusion, the hero who transforms the world through imagination, the comedy and tragedy of idealism.
 ---
 
-# Miguel de Cervantes (米格尔·德·塞万提斯, 1547–1616)
+# Miguel de Cervantes (1547–1616)
 
 ## Life
 
@@ -26,7 +26,7 @@ He returned to Spain and struggled as a writer, tax collector, and purchasing ag
 
 ## Major Works
 
-### Don Quixote (《堂吉诃德》, Part I 1605, Part II 1615)
+### Don Quixote (Part I 1605, Part II 1615)
 
 **Theme**: Idealism vs. reality, madness and wisdom, the power of fiction, the nature of identity.
 
@@ -37,7 +37,7 @@ Alonso Quixano, a hidalgo in La Mancha, has read so many chivalric romances that
 
 He recruits Sancho Panza, a simple farmer, as his squire, promising him an island to govern. Together they ride out. Quixote sees giants where there are windmills, armies where there are sheep, castles where there are inns. He is beaten, mocked, and defeated—yet persists.
 
-Interpolated stories interrupt the narrative. The novel plays with its own authorship (the "found manuscript" of Cide Hamete Benengeli).
+Interpolated stories interrupt the narrative. The novel plays with its own authorship (the found manuscript of Cide Hamete Benengeli).
 
 **Part Two**:
 Ten years later, Quixote and Sancho are famous—Part One has been published, and people have read it. Characters they meet have expectations based on the book. A false sequel by another author (Avellaneda) is denounced within the text.
@@ -46,7 +46,7 @@ A Duke and Duchess entertain Quixote and Sancho, staging elaborate pranks. Sanch
 
 ---
 
-### Novelas Ejemplares (《训诫小说集》, 1613)
+### Novelas Ejemplares (1613)
 
 Twelve short novels (novellas) ranging from idealistic romance to picaresque realism:
 - "Rinconete and Cortadillo" (picaresque)
@@ -56,7 +56,7 @@ Twelve short novels (novellas) ranging from idealistic romance to picaresque rea
 
 ---
 
-### Los Trabajos de Persiles y Sigismunda (《贝尔西莱斯和西希斯蒙达历险记》, 1617)
+### Los Trabajos de Persiles y Sigismunda (1617)
 
 A Byzantine romance, published posthumously. Cervantes considered it his masterpiece. Two lovers journey from the frozen north to Rome.
 

@@ -20,11 +20,7 @@ This mode forces divergence before convergence, honest situation assessment befo
 
 ## Detection Triggers
 
-### English
 strategy, strategic plan, strategic options, business strategy, product strategy, investment thesis, investment strategy, org design, organizational strategy, policy strategy, career strategy, go-to-market, competitive strategy, how should we compete, market entry, due diligence, roadmap strategy, should we invest
-
-### Chinese
-战略, 策略规划, 如何竞争, 商业战略, 产品战略, 投资逻辑, 组织设计, 政策战略, 职业战略, 竞争策略, 市场进入, 尽职调查
 
 ---
 
@@ -459,7 +455,7 @@ Artifact: Investment Memo
 ```
 
 ### Example 4: Organizational
-**"我们需要重新设计我们的工程组织结构"**
+**""**
 ```
 Sub-Mode: Organizational Strategy
 Stage 1 Agents: Diverger, Landscape Analyst, Stakeholder Mapper, Resource Auditor,

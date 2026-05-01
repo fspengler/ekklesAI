@@ -3,7 +3,7 @@ name: du-fu
 description: The "Poet-Sage" of China, greatest of the Tang dynasty poets. His poetry is a mirror of his age—the An Lushan Rebellion, exile, suffering, and the moral weight of witnessing. Compassion for the common people and formal mastery define his work.
 ---
 
-# Du Fu (杜甫, 712–770)
+# Du Fu (712–770)
 
 ## Life
 
@@ -13,14 +13,14 @@ In 755, the An Lushan Rebellion shattered the Tang dynasty's golden age. Du Fu e
 
 He died in 770, probably of illness, on a boat on the Xiang River.
 
-During his lifetime, Du Fu was less celebrated than his friend Li Bai. Posterity reversed this: he became the "Poet-Sage" (诗圣), the moral conscience of Chinese poetry.
+During his lifetime, Du Fu was less celebrated than his friend Li Bai. Posterity reversed this: he became the "Poet-Sage" , the moral conscience of Chinese poetry.
 
 ## Writing Style
 
 - **Realism**: Du Fu depicts what he sees—war's devastation, the people's suffering, his own hardship
-- **Formal mastery**: Especially of the regulated verse (律诗) form; precise tonal patterns, parallelism, compression
+- **Formal mastery**: Especially of the regulated verse form; precise tonal patterns, parallelism, compression
 - **Moral weight**: Poetry as witness; the poet's duty to record and to care
-- **Historical consciousness**: His poems are a chronicle of his age; "poem-history" (诗史)
+- **Historical consciousness**: His poems are a chronicle of his age; "poem-history"
 - **Range of register**: From elevated grandeur to colloquial intimacy
 - **Compassion**: The suffering of ordinary people is his constant theme
 
@@ -28,7 +28,7 @@ During his lifetime, Du Fu was less celebrated than his friend Li Bai. Posterity
 
 ## Major Works
 
-### "A Song of War Chariots" (兵车行)
+### "A Song of War Chariots"
 
 **Background**: Written around 750, before the An Lushan Rebellion, as the Tang empire waged costly campaigns.
 
@@ -38,7 +38,7 @@ During his lifetime, Du Fu was less celebrated than his friend Li Bai. Posterity
 
 ---
 
-### "Moonlit Night" (月夜)
+### "Moonlit Night"
 
 **Background**: Written in 756 after Du Fu was captured by rebels and separated from his family.
 
@@ -48,7 +48,7 @@ During his lifetime, Du Fu was less celebrated than his friend Li Bai. Posterity
 
 ---
 
-### "Spring View" (春望)
+### "Spring View"
 
 **Background**: Written in 757 while Du Fu was held in rebel-occupied Chang'an.
 
@@ -58,13 +58,13 @@ During his lifetime, Du Fu was less celebrated than his friend Li Bai. Posterity
 
 ---
 
-### "The Ballad of the Army Carts" (兵车行)
+### "The Ballad of the Army Carts"
 
 A long ballad on the endless conscription and the grief of those left behind.
 
 ---
 
-### "Song of the Thatched Hut Damaged by the Autumn Wind" (茅屋为秋风所破歌)
+### "Song of the Thatched Hut Damaged by the Autumn Wind"
 
 **Background**: Written in 760 in Chengdu, where Du Fu built a modest thatched hut.
 
@@ -74,7 +74,7 @@ A long ballad on the endless conscription and the grief of those left behind.
 
 ---
 
-### "The Journey North" (北征)
+### "The Journey North"
 
 **Background**: An autobiographical poem of 770 lines, recording Du Fu's journey to rejoin his family after the rebellion.
 
@@ -84,7 +84,7 @@ A long ballad on the endless conscription and the grief of those left behind.
 
 ---
 
-### "Three Officials" (三吏) and "Three Farewells" (三别)
+### "Three Officials" and "Three Farewells"
 
 **Background**: A group of six poems (759) depicting conscription and its devastation.
 
@@ -94,7 +94,7 @@ A long ballad on the endless conscription and the grief of those left behind.
 
 ---
 
-### "Qiang Village" Trilogy (羌村三首)
+### "Qiang Village" Trilogy
 
 **Background**: Written when Du Fu finally returns to his family in 757.
 
@@ -104,7 +104,7 @@ A long ballad on the endless conscription and the grief of those left behind.
 
 ---
 
-### "Autumn Meditations" (秋兴八首)
+### "Autumn Meditations"
 
 **Background**: Eight linked regulated verses written in Kuizhou in 766.
 
@@ -117,46 +117,46 @@ A long ballad on the endless conscription and the grief of those left behind.
 ## Famous Lines
 
 ### On War
-"信知生男恶，反是生女好。生女犹得嫁比邻，生男埋没随百草。"
+""
 "Now we know it's bad to have a son; better to have a daughter. A daughter can be married to a neighbor; a son is buried beneath the grass."
 —from "A Song of War Chariots"
 
 ### On Separation
-"今夜鄜州月，闺中只独看。"
+""
 "Tonight the moon over Fuzhou—in her chamber, alone, she watches."
 —from "Moonlit Night"
 
 ### On National Disaster
-"国破山河在，城春草木深。"
+""
 "The nation is destroyed; mountains and rivers remain. In the city it is spring; grass and trees grow thick."
 —from "Spring View"
 
 ### On His Wish
-"安得广厦千万间，大庇天下寒士俱欢颜。"
+""
 "If I could get a mansion of a million rooms, to shelter all the poor scholars of the world, all with happy faces."
 —from "Song of the Thatched Hut"
 
 ### On Time
-"无边落木萧萧下，不尽长江滚滚来。"
+""
 "Endless falling leaves rustle down; the limitless Yangtze rolls on."
 —from "Ascending Heights"
 
 ### On Old Age
-"万里悲秋常作客，百年多病独登台。"
+""
 "A thousand miles away, in autumn's sorrow, I am always a stranger; a hundred years of illness—alone I climb the height."
 —from "Ascending Heights"
 
 ### On Li Bai
-"笔落惊风雨，诗成泣鬼神。"
+""
 "His brush falls, startling wind and rain; his poems move ghosts and gods to tears."
 —on Li Bai
 
 ### On Poetry
-"文章千古事，得失寸心知。"
+""
 "Literature is the affair of a thousand ages; gain and loss are known only to the heart."
 
 ### On Memory
-"忆昔开元全盛日，小邑犹藏万家室。"
+""
 "I remember the Kaiyuan era at its height—even small towns held ten thousand households."
 —from "Remembering the Past"
 
@@ -174,7 +174,7 @@ Unlike much classical poetry focused on court and elite, Du Fu attends to peasan
 Du Fu spent most of his adult life wandering. The capital Chang'an, symbol of Tang glory, haunts his poetry as the lost home.
 
 ### Moral Witness
-Poetry as ethical act. Du Fu's phrase "poem-history" (诗史) captures his sense of the poet's duty to record.
+Poetry as ethical act. Du Fu's phrase "poem-history" captures his sense of the poet's duty to record.
 
 ### Aging and Mortality
 His late poems are filled with illness, poverty, the sense of life running out. Yet he continues to write.
@@ -187,7 +187,7 @@ His late poems are filled with illness, poverty, the sense of life running out. 
 - **Poem-history**: Poetry as witness to historical events
 - **Compassion as theme**: Attention to the suffering of ordinary people
 - **Formal mastery**: His regulated verse set the standard for the form
-- **Contrast with Li Bai**: Li Bai is the "Immortal" (诗仙), romantic and transcendent; Du Fu is the "Sage" (诗圣), moral and engaged
+- **Contrast with Li Bai**: Li Bai is the "Immortal" , romantic and transcendent; Du Fu is the "Sage" , moral and engaged
 
 ---
 

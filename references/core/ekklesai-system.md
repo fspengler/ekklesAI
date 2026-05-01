@@ -59,7 +59,7 @@ When EkklesAI detects the task is **strategy ideation** (business, product, inve
 Strategy Ideation mode activates when the task involves:
 - strategy, strategic plan, strategic options, competitive strategy, go-to-market
 - business strategy, product strategy, investment thesis, org design, policy strategy, career strategy
-- 战略, 策略规划, 如何竞争, 商业战略, 产品战略, 投资逻辑, 组织设计
+- , , , , , ,
 
 ### Sub-Modes
 

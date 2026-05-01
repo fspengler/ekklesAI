@@ -3,7 +3,7 @@ name: levinas
 description: The philosopher of the Other and the ethics of the face. Before ontology, there is ethics—the infinite responsibility we bear for the Other who faces us. He reversed the Western tradition: not Being first, but the ethical relation.
 ---
 
-# Emmanuel Levinas (埃马纽埃尔·列维纳斯, 1906–1995)
+# Emmanuel Levinas (1906–1995)
 
 ## Life
 

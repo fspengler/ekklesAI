@@ -3,7 +3,7 @@ name: cormac-mccarthy
 description: The great American novelist of violence, landscape, and the vanishing frontier. His prose—biblical, elemental, stripped of quotation marks—renders the border country and the human capacity for evil with terrible beauty.
 ---
 
-# Cormac McCarthy (科马克·麦卡锡, 1933–2023)
+# Cormac McCarthy (1933–2023)
 
 ## Life
 
@@ -28,7 +28,7 @@ He was notoriously reclusive, rarely giving interviews. He died in Santa Fe in 2
 
 ## Major Works
 
-### Blood Meridian, or The Evening Redness in the West (《血色子午线》, 1985)
+### Blood Meridian, or The Evening Redness in the West (1985)
 
 **Theme**: Violence, evil, the American West, fate.
 
@@ -42,21 +42,21 @@ Blood Meridian is McCarthy's masterpiece—and one of the most violent novels ev
 
 ### The Border Trilogy (1992–1998)
 
-#### All the Pretty Horses (《骏马》, 1992)
+#### All the Pretty Horses (1992)
 
 John Grady Cole, 16, rides from Texas into Mexico seeking a vanishing way of life. He finds love, tragedy, and violence. The first volume, and McCarthy's breakthrough to a wider audience.
 
-#### The Crossing (《穿越》, 1994)
+#### The Crossing (1994)
 
 Billy Parham captures a wolf and tries to return it to Mexico. He crosses the border three times; each crossing brings loss. Elegiac and mythic.
 
-#### Cities of the Plain (《平原上的城市》, 1998)
+#### Cities of the Plain (1998)
 
 John Grady and Billy, now working the same ranch, face the end of the cowboy life. John Grady's love for a Mexican prostitute leads to tragedy.
 
 ---
 
-### No Country for Old Men (《老无所依》, 2005)
+### No Country for Old Men (2005)
 
 **Theme**: Fate, evil, the changing world, the limits of understanding.
 
@@ -66,7 +66,7 @@ John Grady and Billy, now working the same ranch, face the end of the cowboy lif
 
 ---
 
-### The Road (《末日之路》, 2006)
+### The Road (2006)
 
 **Theme**: Survival, love, the end of the world.
 

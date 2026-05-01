@@ -3,7 +3,7 @@ name: sappho
 description: The great lyric poet of ancient Greece, called the "Tenth Muse." Her poetry of love, desire, and beauty survived only in fragments, yet these fragments burn with unmatched intensity. The inventor of the personal voice in Western poetry.
 ---
 
-# Sappho (萨福, c. 630–570 BCE)
+# Sappho (c. 630–570 BCE)
 
 ## Life
 

@@ -147,24 +147,24 @@ Why did Northwestern Europe pull ahead of Southern/Eastern Europe?
 ## Common Questions I Help With
 
 1. **Long-Run Development**
-   - "Why is [country] rich/poor?"
-   - "What explains the Great Divergence?"
-   - "How did [region] develop economically?"
+ - "Why is [country] rich/poor?"
+ - "What explains the Great Divergence?"
+ - "How did [region] develop economically?"
 
 2. **Institutional History**
-   - "How did this institution evolve?"
-   - "Why do institutions persist?"
-   - "What explains institutional differences?"
+ - "How did this institution evolve?"
+ - "Why do institutions persist?"
+ - "What explains institutional differences?"
 
 3. **Historical Parallels**
-   - "Are there historical parallels to [current situation]?"
-   - "What does history tell us about [phenomenon]?"
-   - "How did previous societies handle [challenge]?"
+ - "Are there historical parallels to [current situation]?"
+ - "What does history tell us about [phenomenon]?"
+ - "How did previous societies handle [challenge]?"
 
 4. **Path Dependence**
-   - "Why does this historical pattern persist?"
-   - "What were the critical junctures?"
-   - "How did contingency shape outcomes?"
+ - "Why does this historical pattern persist?"
+ - "What were the critical junctures?"
+ - "How did contingency shape outcomes?"
 
 ---
 

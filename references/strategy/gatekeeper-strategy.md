@@ -42,11 +42,11 @@ Before Stage 1 begins, identify the sub-mode from the user's input and present i
 GATEKEEPER | Strategy Mode Initialization
 ═══════════════════════════════════════════════════════════════════
 
-【Detected Sub-Mode】[Sub-Mode Name]
+Detected Sub-Mode[Sub-Mode Name]
 
 This session will use the [Sub-Mode] strategy pipeline.
 
-【Agent Roster for This Session】
+Agent Roster for This Session
 Stage 1 (Context & Landscape):  [List agents]
 Stage 2 (Options Generation):   [List agents]
 Stage 3 (Stress-Testing):       [List agents]
@@ -56,7 +56,7 @@ Final Artifact:                  [Artifact type]
 ───────────────────────────────────────────────────────────────────
 
 → Is this the right mode? Or would you like to adjust?
-  (e.g. "yes, proceed" / "actually this is an investment decision")
+ (e.g. yes, proceed / actually this is an investment decision)
 ═══════════════════════════════════════════════════════════════════
 ```
 
@@ -93,17 +93,17 @@ After Stage 1 closes, before options generation begins.
 GATEKEEPER | Gate 1: Situation Map → Options Generation
 ═══════════════════════════════════════════════════════════════════
 
-【Stage 1 Complete】Context & Landscape ✓
+Stage 1 CompleteContext & Landscape ✓
 
-【Key Findings】
+Key Findings
 [Bullet summary of what the situation map revealed — 4–6 points]
 
-【Significant Tensions or Gaps】
+Significant Tensions or Gaps
 [What the discussion flagged as uncertain, contested, or missing]
 
 ───────────────────────────────────────────────────────────────────
 
-【Confirmation Required】
+Confirmation Required
 
 Before we generate strategic options, confirm:
 
@@ -119,7 +119,7 @@ Before we generate strategic options, confirm:
 
 ───────────────────────────────────────────────────────────────────
 
-【Next Stage】Strategic Options Generation
+Next StageStrategic Options Generation
 
 → Confirm the map is accurate before we proceed.
   Strategic options built on a wrong map are worthless.
@@ -160,9 +160,9 @@ After Stage 2 closes, before stress-testing begins.
 GATEKEEPER | Gate 2: Options Generated → Stress-Testing
 ═══════════════════════════════════════════════════════════════════
 
-【Stage 2 Complete】Strategic Options Generated ✓
+Stage 2 CompleteStrategic Options Generated ✓
 
-【Options on the Table】
+Options on the Table
 
 Option A: [Name]
   Logic:      [Core strategic logic in one sentence]
@@ -183,21 +183,21 @@ Option C: [Name]
 
 ───────────────────────────────────────────────────────────────────
 
-【Selection Required】
+Selection Required
 
 1. Which options should we carry into stress-testing?
    (You can carry 1, 2, or all. Fewer options = deeper stress-test.)
    → [Your selection]
 
 2. Any options to eliminate immediately?
-   → [Your input or "none"]
+ → [Your input or "none"]
 
 3. Any direction that wasn't explored that you want us to test?
-   → [Your input or "no, proceed"]
+ → [Your input or "no, proceed"]
 
 ───────────────────────────────────────────────────────────────────
 
-【Next Stage】Stress-Testing & Analysis
+Next StageStress-Testing & Analysis
 
 → Select which options proceed before we stress-test.
 ═══════════════════════════════════════════════════════════════════
@@ -235,9 +235,9 @@ After Stage 3 closes, before the structured artifact is drafted.
 GATEKEEPER | Gate 3: Stress-Test Complete → Structured Artifact
 ═══════════════════════════════════════════════════════════════════
 
-【Stage 3 Complete】Stress-Testing & Analysis ✓
+Stage 3 CompleteStress-Testing & Analysis ✓
 
-【Stress-Test Summary】
+Stress-Test Summary
 
 Option [A] — [Name]
   Survived:  [What held up under scrutiny]
@@ -249,26 +249,26 @@ Option [B] — [Name]
   Weaknesses: [Key vulnerabilities identified]
   Verdict:   [Strong / Viable with conditions / Weak]
 
-【Core Tradeoff】
+Core Tradeoff
 [The honest tension between the surviving options in one sentence]
 
 ───────────────────────────────────────────────────────────────────
 
-【Commitment Required】
+Commitment Required
 
 1. Which direction do you commit to?
    → [Your choice]
 
 2. Any modifications to your chosen option based on what you learned?
-   → [Your input or "no modifications"]
+ → [Your input or "no modifications"]
 
 3. Which risks do you want explicitly tracked in the artifact?
-   → [Your input or "include all identified risks"]
+ → [Your input or "include all identified risks"]
 
 ───────────────────────────────────────────────────────────────────
 
-【Next Stage】Structured Artifact Production
-【Artifact】[Sub-mode artifact type]
+Next StageStructured Artifact Production
+Artifact[Sub-mode artifact type]
 
 → Once you commit, the structured artifact will be produced.
   This does not lock in your strategy — it gives you something

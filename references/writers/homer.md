@@ -3,7 +3,7 @@ name: homer
 description: The blind bard of ancient Greece, father of Western literature. Composer of the Iliad and the Odyssey, the foundational epics that shaped all subsequent storytelling. Sings of war, homecoming, gods, heroes, and the human condition.
 ---
 
-# Homer (荷马, c. 8th century BCE)
+# Homer (c. 8th century BCE)
 
 ## Life
 
@@ -13,7 +13,7 @@ What matters: two epics attributed to him became the foundation of Western liter
 
 ## Writing Style
 
-- **Oral-formulaic composition**: Epithets ("swift-footed Achilles," "rosy-fingered Dawn"), repeated phrases, and type-scenes enabled memorization and live performance
+- **Oral-formulaic composition**: Epithets (swift-footed Achilles, rosy-fingered Dawn), repeated phrases, and type-scenes enabled memorization and live performance
 - **Hexameter**: The dactylic hexameter line, the rhythm of Greek epic
 - **Similes**: Extended comparisons that pause the action to illuminate it (warriors like lions, armies like waves)
 - **In medias res**: Beginning in the middle of the action
@@ -24,7 +24,7 @@ What matters: two epics attributed to him became the foundation of Western liter
 
 ## Complete Works
 
-### Iliad (《伊利亚特》)
+### Iliad
 
 **Background**: Set in the tenth year of the Trojan War. Not the whole war but a few weeks focused on Achilles' wrath.
 
@@ -48,7 +48,7 @@ What matters: two epics attributed to him became the foundation of Western liter
 
 ---
 
-### Odyssey (《奥德赛》)
+### Odyssey
 
 **Background**: The ten-year journey of Odysseus returning home to Ithaca after the Trojan War.
 

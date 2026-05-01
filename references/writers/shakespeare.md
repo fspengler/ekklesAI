@@ -3,7 +3,7 @@ name: shakespeare
 description: The supreme dramatist of the English language. His plays encompass the full range of human experience—tragedy, comedy, history, romance—with unmatched psychological depth, poetic power, and theatrical vitality.
 ---
 
-# William Shakespeare (威廉·莎士比亚, 1564–1616)
+# William Shakespeare (1564–1616)
 
 ## Life
 
@@ -31,7 +31,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ### Tragedies
 
-#### Hamlet (《哈姆雷特》, c. 1600)
+#### Hamlet (c. 1600)
 
 **Theme**: Revenge, inaction, the problem of knowledge, death, the nature of theater.
 
@@ -44,7 +44,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ---
 
-#### Othello (《奥赛罗》, c. 1603)
+#### Othello (c. 1603)
 
 **Theme**: Jealousy, race, manipulation, love and destruction.
 
@@ -56,7 +56,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ---
 
-#### King Lear (《李尔王》, c. 1605)
+#### King Lear (c. 1605)
 
 **Theme**: Family, madness, nature, justice, the stripping away of everything.
 
@@ -69,7 +69,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ---
 
-#### Macbeth (《麦克白》, c. 1606)
+#### Macbeth (c. 1606)
 
 **Theme**: Ambition, guilt, fate, the supernatural, the corruption of power.
 
@@ -85,7 +85,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ### Comedies
 
-#### A Midsummer Night's Dream (《仲夏夜之梦》, c. 1595)
+#### A Midsummer Night's Dream (c. 1595)
 
 **Theme**: Love, dreams, transformation, the magic of theater.
 
@@ -93,7 +93,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ---
 
-#### Much Ado About Nothing (《无事生非》, c. 1598)
+#### Much Ado About Nothing (c. 1598)
 
 **Theme**: Wit and love, slander and truth, appearance and reality.
 
@@ -101,7 +101,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ---
 
-#### Twelfth Night (《第十二夜》, c. 1601)
+#### Twelfth Night (c. 1601)
 
 **Theme**: Disguise, desire, melancholy, the confusions of love.
 
@@ -111,7 +111,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ### Histories
 
-#### Henry IV, Parts 1 & 2 (《亨利四世》, c. 1597–1598)
+#### Henry IV, Parts 1 & 2 (c. 1597–1598)
 
 **Theme**: Kingship, rebellion, the education of a prince, honor.
 
@@ -123,7 +123,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ---
 
-#### Henry V (《亨利五世》, c. 1599)
+#### Henry V (c. 1599)
 
 **Theme**: War, leadership, nationhood, the costs of kingship.
 
@@ -137,7 +137,7 @@ Despite endless speculation, we know little of his inner life. The work is every
 
 ### Romances
 
-#### The Tempest (《暴风雨》, c. 1610)
+#### The Tempest (c. 1610)
 
 **Theme**: Magic, forgiveness, art, colonialism, the renunciation of power.
 
@@ -203,7 +203,7 @@ Shakespeare delights in language—its power, its limits, its play. Characters w
 
 ## Influence
 
-- **The English language**: Shakespeare invented words (assassination, lonely, obscene) and phrases ("break the ice," "heart of gold")
+- **The English language**: Shakespeare invented words (assassination, lonely, obscene) and phrases (break the ice, heart of gold)
 - **Drama**: The model for all subsequent serious drama
 - **Psychology**: Before Freud, there was Hamlet
 - **Universal reference**: Every culture, every era finds itself in Shakespeare

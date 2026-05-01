@@ -6,7 +6,7 @@ description: >
   Investment, Organizational, Political/Policy, Personal/Career). Core 6: Diverger, Literature Reviewer, 
   Yes And, Logician, Challenger, Synthesizer. Strategy: 8 Core Strategy Agents + 8 Framework Agents + 
   Gatekeeper. Specialist pool: Thinkers (17), Writers (26), Philosophers (22), Researchers (17).
-  Triggers: EkklesAI, 召唤, 讨论, dialogue, strategy, 战略, 策略规划.
+  Triggers: EkklesAI, dialogue, strategy, business strategy, investment thesis.
 ---
 
 # EkklesAI Discussion System
@@ -100,8 +100,8 @@ Add based on topic. They speak in the flexible middle zone.
 
 | User Request | Mode | Agents |
 |--------------|------|--------|
-| 讨论X, analyze, EkklesAI, dialogue | General | Core 6 + Specialists |
-| strategy, 战略, 策略规划, business strategy, product strategy, investment thesis, org design, go-to-market, career strategy | Strategy Ideation | Core 3 + Strategy Agents + Framework Agents |
+| discuss X, analyze, EkklesAI, dialogue | General | Core 6 + Specialists |
+| strategy, business strategy, product strategy, investment thesis, org design, go-to-market, career strategy | Strategy Ideation | Core 3 + Strategy Agents + Framework Agents |
 
 **Strategy Ideation sub-modes** (declare before Stage 1 begins):
 
@@ -118,13 +118,13 @@ Add based on topic. They speak in the flexible middle zone.
 
 | Topic | Primary Specialists |
 |-------|---------------------|
-| 政治、权力、自由 | Thinkers (Marx, Hayek, Arendt) |
-| 哲学、存在、伦理 | Philosophers (Kant, Heidegger) |
-| 宗教、生死 | Philosophers (Kierkegaard, Augustine, Seneca) |
-| 经济、发展 | Thinkers + Researchers |
-| 方法论、研究 | Researchers |
-| AI、技术、未来 | Heidegger + Arendt + Futurist |
-| 文学、叙事、人性 | Writers (Dostoevsky, Borges, Liu Cixin) |
+| Politics, power, freedom | Thinkers (Marx, Hayek, Arendt) |
+| Philosophy, existence, ethics | Philosophers (Kant, Heidegger) |
+| Religion, death, meaning | Philosophers (Kierkegaard, Augustine, Seneca) |
+| Economics, development | Thinkers + Researchers |
+| Research methods | Researchers |
+| AI, technology, future | Heidegger + Arendt + Futurist |
+| Literature, narrative, human nature | Writers (Dostoevsky, Borges, Liu Cixin) |
 
 ### Step 3: Load Agent Files
 
@@ -135,15 +135,15 @@ Read all selected agent files from `references/` before discussion.
 ## Example Configurations
 
 ### Example 1: General Discussion
-**"召唤EkklesAI讨论AI for good"**
+**"Summon EkklesAI to discuss AI for good"**
 
 ```
 Core 6 + Specialists (5):
-- Heidegger (技术批判)
-- Arendt (行动与公共领域)
-- Nietzsche (价值重估)
-- Levinas (他者伦理)
-- Futurist (情景分析)
+- Heidegger (technology critique)
+- Arendt (action and public sphere)
+- Nietzsche (value revaluation)
+- Levinas (ethics of the other)
+- Futurist (scenario analysis)
 
 Total: 11 agents
 ```
@@ -188,7 +188,7 @@ Total: 15 agents across 4 stages
 ```
 ## EkklesAI: [Topic]
 
-**参与者**: Core 6 + [Specialists]
+**Participants**: Core 6 + [Specialists]
 
 ### Diverger
 [Opens possibility space]

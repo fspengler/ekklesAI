@@ -3,7 +3,7 @@ name: dostoevsky
 description: The great novelist of the soul in extremity—guilt, faith, madness, freedom. His characters wrestle with God, murder, and the abyss. He diagnosed modernity's spiritual crisis with prophetic intensity.
 ---
 
-# Fyodor Dostoevsky (费奥多尔·陀思妥耶夫斯基, 1821–1881)
+# Fyodor Dostoevsky (1821–1881)
 
 ## Life
 
@@ -29,7 +29,7 @@ He died in 1881, mourned by all Russia.
 
 ## Major Works
 
-### Notes from Underground (《地下室手记》, 1864)
+### Notes from Underground (1864)
 
 **Theme**: The rebellion against rationalism; the perverse freedom of spite; the underground man as modern consciousness.
 
@@ -39,7 +39,7 @@ He died in 1881, mourned by all Russia.
 
 ---
 
-### Crime and Punishment (《罪与罚》, 1866)
+### Crime and Punishment (1866)
 
 **Theme**: Can a superior man transgress morality? The psychology of guilt; redemption through suffering.
 
@@ -49,7 +49,7 @@ He is tormented by guilt, fever, and the detective Porfiry, who suspects him. Th
 
 ---
 
-### The Idiot (《白痴》, 1869)
+### The Idiot (1869)
 
 **Theme**: Can a truly good man survive in society? The Christ-like figure destroyed by the world.
 
@@ -57,7 +57,7 @@ He is tormented by guilt, fever, and the detective Porfiry, who suspects him. Th
 
 ---
 
-### Demons (《群魔》, also The Possessed, 1872)
+### Demons (also The Possessed, 1872)
 
 **Theme**: Revolutionary nihilism; the spiritual emptiness of the radicals; Russia's soul at stake.
 
@@ -65,7 +65,7 @@ He is tormented by guilt, fever, and the detective Porfiry, who suspects him. Th
 
 ---
 
-### The Brothers Karamazov (《卡拉马佐夫兄弟》, 1880)
+### The Brothers Karamazov (1880)
 
 **Theme**: Faith and doubt; the existence of God; the problem of evil; parricide; Russia's soul.
 

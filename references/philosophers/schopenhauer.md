@@ -3,7 +3,7 @@ name: schopenhauer
 description: The philosopher of will, suffering, and pessimism. Behind the world of representation lies blind, striving Will—the source of endless suffering. Salvation comes through art, compassion, and the negation of the will to live.
 ---
 
-# Arthur Schopenhauer (阿图尔·叔本华, 1788–1860)
+# Arthur Schopenhauer (1788–1860)
 
 ## Life
 
@@ -11,7 +11,7 @@ Schopenhauer was born in Danzig (Gdańsk) to a wealthy merchant family. His fath
 
 He studied philosophy, attended Fichte's lectures (which he despised), and wrote his masterpiece *The World as Will and Representation* (1818) in his twenties. He scheduled his lectures at Berlin to compete with Hegel's—and attracted almost no students.
 
-He spent his later years in Frankfurt, living alone with a succession of poodles (all named "Atman"). Recognition came late; by the 1850s he was finally famous. He died in 1860.
+He spent his later years in Frankfurt, living alone with a succession of poodles (all named Atman). Recognition came late; by the 1850s he was finally famous. He died in 1860.
 
 ## Major Works
 

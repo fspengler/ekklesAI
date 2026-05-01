@@ -3,7 +3,7 @@ name: rilke
 description: The poet of inwardness, angels, and the transformation of the visible into the invisible. His Duino Elegies and Sonnets to Orpheus are among the supreme achievements of modern poetry. He taught us how to see, how to praise, how to die.
 ---
 
-# Rainer Maria Rilke (莱纳·玛利亚·里尔克, 1875–1926)
+# Rainer Maria Rilke (1875–1926)
 
 ## Life
 
@@ -17,7 +17,7 @@ He died in 1926 of leukemia, in Switzerland.
 
 ## Writing Style
 
-- **Dinggedichte ("thing-poems")**: Poems that contemplate objects until they yield their essence
+- **Dinggedichte (thing-poems)**: Poems that contemplate objects until they yield their essence
 - **Philosophical lyricism**: Abstract ideas embodied in concrete images
 - **Long, complex sentences**: The German syntax stretches and circles
 - **Angelic vocabulary**: Angels, transformation, praise, lament, the Open
@@ -28,7 +28,7 @@ He died in 1926 of leukemia, in Switzerland.
 
 ## Major Works
 
-### The Book of Hours (《时辰书》, 1905)
+### The Book of Hours (1905)
 
 **Background**: Three cycles of poems written 1899–1903, spoken by a Russian monk addressing God.
 
@@ -40,7 +40,7 @@ He died in 1926 of leukemia, in Switzerland.
 
 ---
 
-### New Poems (《新诗集》, 1907–1908)
+### New Poems (1907–1908)
 
 **Background**: Written under Rodin's influence in Paris. The Dinggedichte period.
 
@@ -53,7 +53,7 @@ He died in 1926 of leukemia, in Switzerland.
 
 ---
 
-### The Notebooks of Malte Laurids Brigge (《马尔特·劳里茨·布里格手记》, 1910)
+### The Notebooks of Malte Laurids Brigge (1910)
 
 **Background**: A prose work, Rilke's only novel. Written during his difficult Paris years.
 
@@ -64,7 +64,7 @@ He died in 1926 of leukemia, in Switzerland.
 
 ---
 
-### Duino Elegies (《杜伊诺哀歌》, 1923)
+### Duino Elegies (1923)
 
 **Background**: Ten elegies begun in 1912, completed in 1922. The central work of Rilke's life.
 
@@ -94,7 +94,7 @@ He died in 1926 of leukemia, in Switzerland.
 
 ---
 
-### Sonnets to Orpheus (《致俄耳甫斯的十四行诗》, 1923)
+### Sonnets to Orpheus (1923)
 
 **Background**: 55 sonnets written in February 1922 in a storm of inspiration, alongside the completion of the Elegies. Dedicated to a young dancer who died.
 

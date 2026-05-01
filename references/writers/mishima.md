@@ -3,7 +3,7 @@ name: mishima
 description: The beautiful monster of Japanese literature—aesthete, bodybuilder, nationalist, suicide. His novels pursue beauty to its extremes, fusing Japanese tradition with Western form. He staged his death as art.
 ---
 
-# Yukio Mishima (三岛由纪夫, Hiraoka Kimitake 平岡公威, 1925–1970)
+# Yukio Mishima (Hiraoka Kimitake , 1925–1970)
 
 ## Life
 
@@ -28,7 +28,7 @@ On November 25, 1970, he and four followers seized the commandant of a military 
 
 ## Major Works
 
-### Confessions of a Mask (《假面的告白》, Kamen no Kokuhaku, 1949)
+### Confessions of a Mask (Kamen no Kokuhaku, 1949)
 
 **Theme**: Sexual identity, masks, the aesthetics of desire.
 
@@ -38,7 +38,7 @@ On November 25, 1970, he and four followers seized the commandant of a military 
 
 ---
 
-### The Temple of the Golden Pavilion (《金阁寺》, Kinkaku-ji, 1956)
+### The Temple of the Golden Pavilion (Kinkaku-ji, 1956)
 
 **Theme**: Beauty and destruction, obsession, the impossibility of possessing beauty.
 
@@ -48,7 +48,7 @@ On November 25, 1970, he and four followers seized the commandant of a military 
 
 ---
 
-### The Sound of Waves (《潮骚》, Shiosai, 1954)
+### The Sound of Waves (Shiosai, 1954)
 
 **Theme**: Pure love, nature, innocence.
 
@@ -56,7 +56,7 @@ On November 25, 1970, he and four followers seized the commandant of a military 
 
 ---
 
-### The Sailor Who Fell from Grace with the Sea (《午後の曳航》, Gogo no Eikō, 1963)
+### The Sailor Who Fell from Grace with the Sea (の, Gogo no Eikō, 1963)
 
 **Theme**: Heroism, disillusionment, violence.
 
@@ -64,23 +64,23 @@ On November 25, 1970, he and four followers seized the commandant of a military 
 
 ---
 
-### The Sea of Fertility Tetralogy (《豊饒の海》, Hōjō no Umi, 1965–1970)
+### The Sea of Fertility Tetralogy (の, Hōjō no Umi, 1965–1970)
 
 Mishima's magnum opus, four novels spanning the 20th century.
 
-#### Spring Snow (《春の雪》, 1968)
+#### Spring Snow (の, 1968)
 
 Kiyoaki, a beautiful young aristocrat in Meiji Japan, loves Satoko, who is engaged to an imperial prince. They conduct a forbidden affair; she becomes pregnant; she enters a convent. He dies trying to see her one last time.
 
-#### Runaway Horses (《奔馬》, 1969)
+#### Runaway Horses (1969)
 
 Honda, a judge, encounters a young man who appears to be Kiyoaki reincarnated. Isao is a fanatic nationalist who plans an act of political terrorism. He succeeds and commits seppuku.
 
-#### The Temple of Dawn (《暁の寺》, 1970)
+#### The Temple of Dawn (の, 1970)
 
 Honda, now elderly, encounters what may be another reincarnation—a Thai princess. The novel spans decades and continents, ending in darker revelations.
 
-#### The Decay of the Angel (《天人五衰》, 1971)
+#### The Decay of the Angel (1971)
 
 Honda adopts a young man he believes is the final reincarnation. The young man is cruel and empty. The cycle ends with Honda visiting the aged Satoko, now a nun, who claims never to have known Kiyoaki. Has everything been delusion?
 

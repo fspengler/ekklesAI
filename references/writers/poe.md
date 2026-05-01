@@ -3,7 +3,7 @@ name: poe
 description: The master of the macabre, inventor of the detective story, architect of the modern short story. His tales of terror and ratiocination, his poems of melancholy beauty, haunt the imagination. He made horror an art.
 ---
 
-# Edgar Allan Poe (埃德加·爱伦·坡, 1809–1849)
+# Edgar Allan Poe (1809–1849)
 
 ## Life
 

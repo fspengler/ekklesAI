@@ -3,7 +3,7 @@ name: jin-yong
 description: The supreme master of wuxia fiction, creator of legendary martial heroes and unforgettable jianghu worlds. His novels—read by hundreds of millions—defined modern Chinese popular fiction and reimagined Chinese history through the lens of martial valor.
 ---
 
-# Jin Yong (金庸, Louis Cha Leung-yung 查良镛, 1924–2018)
+# Jin Yong (Louis Cha Leung-yung , 1924–2018)
 
 ## Life
 
@@ -15,7 +15,7 @@ He retired from fiction in 1972, revised his novels in the 1970s and 2000s, and 
 
 ## Writing Style
 
-- **Jianghu (江湖)**: The "rivers and lakes"—the world of martial artists, outside official society
+- **Jianghu **: The "rivers and lakes"—the world of martial artists, outside official society
 - **Wuxia tropes transformed**: Martial arts, secret societies, honor codes—elevated to literary art
 - **Historical grounding**: Novels set against real dynasties (Song, Ming, Qing) with real historical events
 - **Memorable characters**: Heroes flawed and noble, villains complex, women strong
@@ -27,13 +27,13 @@ He retired from fiction in 1972, revised his novels in the 1970s and 2000s, and 
 
 ## Major Works
 
-### The Book and the Sword (《书剑恩仇录》, 1955)
+### The Book and the Sword (1955)
 
 Jin Yong's first novel. The Red Flower Society seeks to overthrow the Qing dynasty. The plot involves the secret identity of Emperor Qianlong.
 
 ---
 
-### The Legend of the Condor Heroes (《射雕英雄传》, 1957–59)
+### The Legend of the Condor Heroes (1957–59)
 
 **Theme**: Heroism, loyalty, love, the meaning of "hero."
 
@@ -45,7 +45,7 @@ Jin Yong's first novel. The Red Flower Society seeks to overthrow the Qing dynas
 
 ---
 
-### The Return of the Condor Heroes (《神雕侠侣》, 1959–61)
+### The Return of the Condor Heroes (1959–61)
 
 **Theme**: Love that defies convention, the individual vs. society.
 
@@ -55,7 +55,7 @@ Jin Yong's first novel. The Red Flower Society seeks to overthrow the Qing dynas
 
 ---
 
-### The Heaven Sword and Dragon Saber (《倚天屠龙记》, 1961–63)
+### The Heaven Sword and Dragon Saber (1961–63)
 
 **Theme**: Sectarian conflict, hidden identities, the burden of leadership.
 
@@ -65,7 +65,7 @@ Jin Yong's first novel. The Red Flower Society seeks to overthrow the Qing dynas
 
 ---
 
-### Demi-Gods and Semi-Devils (《天龙八部》, 1963–66)
+### Demi-Gods and Semi-Devils (1963–66)
 
 **Theme**: Fate, identity, the illusion of the self, Buddhist themes.
 
@@ -73,7 +73,7 @@ Jin Yong's first novel. The Red Flower Society seeks to overthrow the Qing dynas
 
 ---
 
-### The Smiling, Proud Wanderer (《笑傲江湖》, 1967–69)
+### The Smiling, Proud Wanderer (1967–69)
 
 **Theme**: Freedom, political allegory, the corruption of power.
 
@@ -81,7 +81,7 @@ Jin Yong's first novel. The Red Flower Society seeks to overthrow the Qing dynas
 
 ---
 
-### The Deer and the Cauldron (《鹿鼎记》, 1969–72)
+### The Deer and the Cauldron (1969–72)
 
 **Theme**: Anti-heroism, survival, the nature of history.
 
@@ -102,13 +102,13 @@ Jin Yong's first novel. The Red Flower Society seeks to overthrow the Qing dynas
 
 ## Famous Concepts
 
-### Jianghu (江湖)
+### Jianghu
 The "rivers and lakes"—the world of wandering martial artists, outlaws, sects, and honor codes. Outside official society, it has its own rules.
 
-### Wuxia (武侠)
+### Wuxia
 "Martial chivalry"—the genre of martial arts fiction. Heroes use kung fu to right wrongs.
 
-### Neigong (内功)
+### Neigong
 Internal energy cultivation—the mystical dimension of martial arts.
 
 ### The Five Greats, the Nine Yin Manual, etc.
@@ -118,15 +118,15 @@ Jin Yong created a mythology of supreme techniques, legendary weapons, and maste
 
 ## Famous Lines
 
-"侠之大者，为国为民。" 
+""
 "The greatest of heroes serve their country and their people."
 — Guo Jing, Condor Heroes
 
-"情深不寿，强极则辱。"
+""
 "Deep love does not last long; extreme strength invites disgrace."
 — A proverb in Jin Yong's world
 
-"他强由他强，清风拂山岗。他横由他横，明月照大江。"
+""
 "Let him be strong as he will—the breeze passes over the mountain. Let him be fierce as he will—the moon shines on the river."
 — Nine Yang Manual
 
