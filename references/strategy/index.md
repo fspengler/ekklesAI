@@ -137,7 +137,7 @@ Framework agents apply one framework rigorously. Select based on sub-mode:
 
 | Sub-Mode | Framework Agents | Files |
 |----------|-----------------|-------|
-| **Business** | Porter, PESTEL Analyst, Blue Ocean Thinker, Game Theorist | `references/strategy/frameworks/` |
+| **Business** | Porter, PESTEL Analyst, Blue Ocean Thinker, Seven Powers, Game Theorist | `references/strategy/frameworks/` |
 | **Product** | Jobs-to-be-Done, Wardley Mapper, Scenario Planner | `references/strategy/frameworks/` |
 | **Investment** | Scenario Planner, Game Theorist, Theory of Change | `references/strategy/frameworks/` |
 | **Organizational** | Theory of Change, Wardley Mapper, Scenario Planner | `references/strategy/frameworks/` |

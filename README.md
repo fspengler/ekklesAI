@@ -79,7 +79,7 @@ The fixed order and role boundaries create productive constraints:
 - Synthesizer can't add new ideas (only works with what's on table)
 - Each agent does one thing deeply, not everything superficially
 
-## 100 Specialist Agents
+## 101 Specialist Agents
 
 Beyond the Core agents, EkklesAI includes specialist agents organized by domain:
 
@@ -99,7 +99,7 @@ Specialists are selected based on topic relevance and speak in the flexible midd
 | Category | Count | Agents |
 |----------|-------|--------|
 | **Core Strategy** | 8 | Landscape Analyst, Competitive Cartographer, Stakeholder Mapper, Resource Auditor, Risk Cartographer, Systems Thinker, Implementation Architect, Narrative Strategist |
-| **Framework** | 8 | Porter (Five Forces), PESTEL Analyst, Blue Ocean Thinker, Jobs-to-be-Done, Wardley Mapper, Scenario Planner, Theory of Change, Strategic Game Theorist |
+| **Framework** | 9 | Porter (Five Forces), PESTEL Analyst, Blue Ocean Thinker, Jobs-to-be-Done, Wardley Mapper, Scenario Planner, Theory of Change, Strategic Game Theorist, Seven Powers (Helmer) |
 
 Strategy agents run in a hard-gated 4-stage pipeline controlled by the Gatekeeper. Framework agents are selected by sub-mode; Core Strategy agents are always included.
 

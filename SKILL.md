@@ -263,8 +263,8 @@ Total: 15 agents across 4 stages
 | **Strategy Ideation** | `references/strategy/index.md` | — |
 | Strategy Gatekeeper | `references/strategy/gatekeeper-strategy.md` | 1 |
 | Core Strategy Agents | `references/strategy/core-strategy/` | 8 |
-| Framework Agents | `references/strategy/frameworks/` | 8 |
-| **Total Agents** | | **106** |
+| Framework Agents | `references/strategy/frameworks/` | 9 |
+| **Total Agents** | | **107** |
 
 ### Strategy Agent Files
 
@@ -287,3 +287,4 @@ Total: 15 agents across 4 stages
 - `scenario-planner.md` — 2×2 scenario matrix & robustness testing
 - `theory-of-change.md` — causal chain construction & stress-testing
 - `strategic-game-theorist.md` — competitive interaction modeling
+- `seven-powers.md` — Helmer's 7 Powers: durable competitive advantage assessment
